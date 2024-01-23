@@ -1,0 +1,840 @@
+school_id,limits,length,inches
+1,dresses,top of the kneecap,
+1,skirts,top of the kneecap,
+1,shorts,top of the kneecap,
+2,dresses,shorter than x inches from knee,3
+2,skirts,shorter than x inches from knee,3
+2,shorts,shorter than x inch inseam,5
+3,skirts,shorter than fingertips,
+3,shorts,shorter than fingertips,
+4,dresses,shorter than the knee,
+4,skirts,shorter than the knee,
+4,shorts,shorter than the knee,
+5,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+6,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+6,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+7,dresses,shorter than x inches from knee,6
+7,skirts,shorter than x inches from knee,6
+7,shorts,shorter than x inches from knee,6
+8,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+8,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+9,shorts,shorter than x inches from knee,3
+10,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+10,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+11,pants,shorter than mid-thigh,
+11,skirts,shorter than mid-thigh,
+11,shorts,shorter than mid-thigh,
+13,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+13,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+16,dresses,shorter than x inches from knee,4
+16,skirts,shorter than x inches from knee,4
+16,shorts,shorter than x inches from knee,4
+17,dresses,shorter than fingertips,
+17,skirts,shorter than fingertips,
+17,shorts,shorter than fingertips,
+19,skirts,shorter than fingertips,
+19,shorts,shorter than fingertips,
+21,shorts,shorter than mid-thigh,
+22,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+23,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+23,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+24,dresses,shorter than mid-thigh,
+24,skirts,shorter than mid-thigh,
+24,shorts,shorter than mid-thigh,
+25,skirts,shorter than fingertips,
+25,shorts,shorter than fingertips,
+26,dresses,shorter than x inches from knee,4
+26,skirts,shorter than x inches from knee,4
+26,shorts,shorter than x inch inseam,5
+27,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+29,dresses,shorter than x inches from knee,3
+29,skirts,shorter than x inches from knee,3
+30,dresses,shorter than fingertips,
+30,skirts,shorter than fingertips,
+30,shorts,shorter than fingertips,
+32,dresses,shorter than mid-thigh,
+32,skirts,shorter than mid-thigh,
+32,shorts,shorter than mid-thigh,
+33,dresses,shorter than x inches from knee,6
+33,skirts,shorter than x inches from knee,6
+35,dresses,shorter than mid-thigh,
+35,skirts,shorter than mid-thigh,
+35,shorts,shorter than mid-thigh,
+36,dresses,shorter than fingertips,
+36,shorts,shorter than fingertips,
+37,dresses,shorter than mid-thigh,
+37,skirts,shorter than mid-thigh,
+37,shorts,shorter than mid-thigh,
+38,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+38,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+39,dresses,shorter than x inches from knee,5
+39,skirts,shorter than x inches from knee,5
+39,shorts,shorter than x inches from knee,5
+41,skirts,shorter than fingertips,
+41,shorts,shorter than fingertips,
+42,skirts,shorter than fingertips,
+42,shorts,shorter than fingertips,
+44,dresses,shorter than fingertips,
+44,skirts,shorter than fingertips,
+44,shorts,shorter than fingertips,
+45,shorts,shorter than fingertips,
+46,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+46,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+46,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+47,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+47,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+47,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+48,skirts,shorter than x inches from knee,3
+48,shorts,shorter than x inches from knee,4
+49,dresses,shorter than the knee,
+49,skirts,shorter than the knee,
+49,shorts,shorter than x inches from knee,4
+49,skorts,shorter than x inches from knee,4
+51,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+52,dresses,shorter than fingertips,
+52,skirts,shorter than fingertips,
+52,shorts,shorter than fingertips,
+53,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+54,dresses,shorter than fingertips,
+54,skirts,shorter than fingertips,
+54,shorts,shorter than fingertips,
+55,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+55,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+55,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+57,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+57,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+57,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+58,shorts,shorter than thumb,
+60,skirts,shorter than fingertips,
+60,shorts,shorter than fingertips,
+61,dresses,shorter than fingertips,
+61,skirts,shorter than fingertips,
+61,shorts,shorter than fingertips,
+62,dresses,shorter than fingertips,
+62,skirts,shorter than fingertips,
+62,shorts,shorter than fingertips,
+63,dresses,shorter than x inches from knee,2
+63,skirts,shorter than x inches from knee,2
+64,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+65,dresses,shorter than fingertips,
+65,skirts,shorter than fingertips,
+65,shorts,shorter than fingertips,
+66,dresses,shorter than x inches from knee,6
+66,skirts,shorter than x inches from knee,6
+66,shorts,shorter than x inches from knee,6
+67,dresses,shorter than x inches from knee,width of agenda
+67,skirts,shorter than x inches from knee,
+67,shorts,shorter than x inches from knee,
+68,skirts,shorter than fingertips,
+68,shorts,shorter than fingertips,
+69,dresses,shorter than x inches from knee,3
+69,skirts,shorter than x inches from knee,3
+69,shorts,shorter than x inches from knee,3
+70,skirts,shorter than x inches from knee,6
+70,shorts,shorter than x inch inseam,5
+71,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+71,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+71,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+73,dresses,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+73,skirts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+73,shorts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+75,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+76,shorts,shorter than fingertips,
+77,skirts,shorter than fingertips,
+77,shorts,shorter than fingertips,
+78,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+78,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+79,dresses,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+79,skirts,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+79,shorts,shorter than the width of the palm of the hand measuring down from the top of the inseam,
+80,dresses,shorter than x inches from knee,2
+80,skirts,shorter than x inches from knee,2
+80,shorts,shorter than x inches from knee,2
+80,skorts,shorter than x inches from knee,2
+81,dresses,shorter than x inches from knee,width of a dollar bill
+81,skirts,shorter than x inches from knee,width of a dollar bill
+81,shorts,shorter than fingertips,
+82,skirts,shorter than the knee,
+82,shorts,shorter than the knee,
+84,dresses,shorter than x inches from knee,3
+84,skirts,shorter than x inches from knee,3
+84,shorts,shorter than x inches from knee,3
+85,dresses,shorter than x inches from knee,3
+85,skirts,shorter than x inches from knee,3
+85,shorts,shorter than x inches from knee,3
+86,skirts,shorter than x inches from knee,3
+86,shorts,shorter than x inches from knee,5
+87,shorts,"shorter than fingertips, shorter than mid-thigh, whichever is longer",
+88,skirts,shorter than x inches from knee,6
+88,shorts,shorter than x inches from knee,6
+89,skirts,shorter than mid-thigh,
+89,shorts,shorter than mid-thigh,
+89,jumpers,shorter than mid-thigh,
+90,skirts,shorter than mid-thigh,
+90,shorts,shorter than mid-thigh,
+91,skirts,shorter than fingertips,
+91,shorts,shorter than fingertips,
+93,dresses,shorter than mid-thigh,
+93,skirts,shorter than mid-thigh,
+93,shorts,shorter than mid-thigh,
+93,skorts,shorter than mid-thigh,
+94,skirts,shorter than fingertips,
+94,shorts,shorter than fingertips,
+96,shorts,does not conceal entire bottom,
+98,dresses,shorter than x inches from knee,4
+98,skirts,shorter than x inches from knee,4
+98,shorts,shorter than x inches from knee,4
+99,dresses,shorter than x inches from knee,3
+99,skirts,shorter than x inches from knee,3
+99,shorts,shorter than x inches from knee,3
+100,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+100,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+101,dresses,not cover entire buttocks and private areas,
+101,pants,not cover entire buttocks and private areas,
+101,skirts,not cover entire buttocks and private areas,
+101,shorts,not cover entire buttocks and private areas,
+101,skorts,not cover entire buttocks and private areas,
+103,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+104,skirts,shorter than fingertips,
+105,dresses,shorter than the knee,
+105,skirts,shorter than the knee,
+105,shorts,shorter than the knee,
+106,pants,shorter than mid-thigh,
+106,skirts,shorter than mid-thigh,
+106,shorts,shorter than mid-thigh,
+107,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+108,dresses,shorter than fingertips,
+108,skirts,shorter than fingertips,
+108,shorts,shorter than fingertips,
+109,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+110,skirts,"shorter than fingertips, shorter than x inches from knee, whichever is longest",6
+110,shorts,"shorter than fingertips, shorter than x inches from knee, whichever is longest",6
+112,dresses,shorter than the knee,
+112,skirts,shorter than the knee,
+112,shorts,shorter than the knee,
+113,dresses,shorter than fingertips,
+113,skirts,shorter than fingertips,
+113,shorts,shorter than fingertips,
+114,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+114,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+116,skirts,shorter than fingertips,
+116,shorts,shorter than fingertips,
+117,dresses,shorter than 2 inches below longest fingertip,
+117,skirts,shorter than 2 inches below longest fingertip,
+117,shorts,shorter than 2 inches below longest fingertip,
+118,dresses,shorter than fingertips,
+118,shorts,shorter than fingertips,
+119,dresses,shorter than x inches from knee,length of a standard Ohio driver's license
+119,skirts,shorter than x inches from knee,length of a standard Ohio driver's license
+119,shorts,shorter than x inches from knee,length of a dollar bill
+120,dresses,shorter than mid-thigh,
+120,skirts,shorter than mid-thigh,
+120,shorts,shorter than x inch inseam,5
+121,dresses,shorter than x inch inseam,2
+121,skirts,shorter than x inch inseam,2
+121,shorts,shorter than x inch inseam,2
+122,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+122,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+122,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+123,dresses,shorter than mid-thigh,
+123,skirts,shorter than mid-thigh,
+123,shorts,shorter than mid-thigh,
+124,skirts,shorter than mid-thigh,
+124,shorts,shorter than mid-thigh,
+125,skirts,shorter than x inches from knee,2
+125,shorts,shorter than mid-thigh,
+126,dresses,shorter than x inches from knee,3
+126,skirts,shorter than x inches from knee,3
+126,shorts,shorter than x inches from knee,3
+127,skirts,shorter than fingertips,
+127,shorts,shorter than fingertips,
+128,skirts,shorter than fingertips,
+128,shorts,shorter than fingertips,
+130,skirts,shorter than mid-thigh,
+130,shorts,shorter than mid-thigh,
+131,dresses,shorter than fingertips,
+131,skirts,shorter than fingertips,
+131,shorts,shorter than fingertips,
+133,skirts,shorter than mid-thigh,
+133,shorts,shorter than x inch inseam,5
+134,skirts,shorter than mid-thigh,
+134,shorts,shorter than mid-thigh,
+135,dresses,shorter than x inches from knee,3
+135,skirts,shorter than x inches from knee,3
+135,shorts,shorter than x inches from knee,3
+137,dresses,shorter than mid-thigh,
+137,skirts,shorter than mid-thigh,
+137,shorts,shorter than x inch inseam,3
+138,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+138,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+138,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+139,skirts,shorter than mid-thigh,
+139,shorts,shorter than mid-thigh,
+141,dresses,shorter than x inches from knee,4
+141,skirts,shorter than x inches from knee,4
+141,shorts,shorter than x inches from knee,4
+141,jumpers,shorter than x inches from knee,4
+143,dresses,shorter than mid-thigh,
+143,skirts,shorter than mid-thigh,
+143,shorts,shorter than mid-thigh,
+145,skirts,shorter than mid-thigh,
+145,shorts,shorter than mid-thigh,
+147,dresses,shorter than fingertips,
+147,skirts,shorter than fingertips,
+147,shorts,shorter than fingertips,
+148,dresses,shorter than x inches from knee,7
+148,skirts,shorter than x inches from knee,7
+148,shorts,shorter than x inches from knee,7
+149,dresses,shorter than fingertips,
+149,skirts,shorter than fingertips,
+149,shorts,shorter than fingertips,
+150,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+150,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+151,dresses,shorter than fingertips,
+151,skirts,shorter than fingertips,
+151,shorts,shorter than fingertips,
+154,skirts,shorter than mid-thigh,
+154,shorts,shorter than mid-thigh,
+156,shorts,shorter than mid-thigh,
+157,dresses,shorter than x inches from knee,3
+157,skirts,shorter than x inches from knee,3
+157,shorts,shorter than x inches from knee,3
+159,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+159,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+160,dresses,shorter than fingertips,
+160,pants,shorter than fingertips,
+160,skirts,shorter than fingertips,
+160,shorts,shorter than fingertips,
+161,skirts,shorter than mid-thigh,
+161,skorts,shorter than mid-thigh,
+162,dresses,shorter than mid-thigh,
+162,skirts,shorter than mid-thigh,
+162,shorts,shorter than mid-thigh,
+164,dresses,shorter than x inches from knee,length of a dollar bill
+164,skirts,shorter than x inches from knee,length of a dollar bill
+164,shorts,shorter than x inches from knee,length of a dollar bill
+166,skirts,shorter than mid-thigh,
+166,shorts,shorter than mid-thigh,
+167,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+168,dresses,shorter than mid-thigh,
+168,skirts,shorter than mid-thigh,
+168,shorts,shorter than mid-thigh,
+170,dresses,shorter than mid-hand,
+170,shorts,shorter than mid-hand,
+172,skirts,shorter than fingertips,
+172,shorts,shorter than fingertips,
+173,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+173,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+174,dresses,shorter than x inches from knee,2
+174,skirts,shorter than x inches from knee,2
+174,shorts,shorter than x inches from knee,2
+175,skirts,shorter than fingertips,
+175,shorts,shorter than fingertips,
+177,dresses,shorter than fingertips,
+177,skirts,shorter than fingertips,
+177,shorts,shorter than fingertips,
+177,skorts,shorter than fingertips,
+179,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+179,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+179,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+181,skirts,shorter than mid-thigh,
+181,shorts,shorter than mid-thigh,
+181,skorts,shorter than mid-thigh,
+182,dresses,shorter than fingertips,
+182,skirts,shorter than fingertips,
+183,skirts,shorter than fingertips,
+183,shorts,shorter than fingertips,
+184,skirts,shorter than fingertips,
+184,shorts,shorter than fingertips,
+184,skorts,shorter than fingertips,
+186,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+186,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+188,skirts,shorter than fingertips,
+188,shorts,shorter than fingertips,
+190,shorts,shorter than mid-thigh,
+192,dresses,shorter than fingertips,
+192,skirts,shorter than fingertips,
+192,shorts,shorter than fingertips,
+193,dresses,shorter than x inches from knee,2
+193,skirts,shorter than x inches from knee,2
+193,shorts,shorter than x inches from knee,2
+194,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+194,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+196,dresses,shorter than mid-thigh,
+196,skirts,shorter than mid-thigh,
+196,jumpers,shorter than mid-thigh,
+197,dresses,shorter than mid-thigh,
+197,shorts,shorter than mid-thigh,
+199,dresses,shorter than fingertips,
+199,skirts,shorter than fingertips,
+199,shorts,shorter than fingertips,
+199,skorts,shorter than fingertips,
+200,dresses,shorter than the width of the palm of the hand from the top of the inseam,
+200,skirts,shorter than the width of the palm of the hand from the top of the inseam,
+200,shorts,shorter than the width of the palm of the hand from the top of the inseam,
+202,shorts,shorter than mid-thigh,
+204,skirts,shorter than fingertips,
+204,shorts,shorter than fingertips,
+205,skirts,shorter than fingertips,
+205,shorts,shorter than fingertips,
+206,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+206,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+207,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+207,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+207,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+207,tunics,"""short""/""inappropriate length"" (no exact measurement given)",
+211,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+211,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+213,dresses,shorter than x inches from knee,4
+213,skirts,shorter than x inches from knee,4
+213,shorts,shorter than x inches from knee,4
+214,dresses,shorter than x inches from knee,6
+214,skirts,shorter than x inches from knee,6
+214,shorts,shorter than x inches from knee,6
+215,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+215,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+216,dresses,shorter than mid-thigh,
+216,skirts,shorter than mid-thigh,
+216,shorts,shorter than mid-thigh,
+217,shorts,shorter than x inches from knee,6
+220,dresses,shorter than the knee,
+220,skirts,shorter than the knee,
+220,shorts,shorter than the knee,
+220,skorts,shorter than the knee,
+221,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+221,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+222,dresses,shorter than mid-thigh,
+222,pants,shorter than mid-thigh,
+222,skirts,shorter than mid-thigh,
+222,shorts,shorter than mid-thigh,
+223,skirts,shorter than fingertips,
+223,shorts,shorter than fingertips,
+224,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+224,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+227,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+227,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+228,dresses,shorter than mid-thigh,
+228,skirts,shorter than mid-thigh,
+228,shorts,shorter than x inch inseam,3
+229,dresses,shorter than mid-thigh,
+229,skirts,shorter than mid-thigh,
+229,shorts,shorter than mid-thigh,
+230,dresses,shorter than fingertips,
+230,skirts,shorter than fingertips,
+230,shorts,shorter than fingertips,
+231,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+231,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+231,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+233,skirts,shorter than fingertips,
+233,shorts,shorter than fingertips,
+234,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+234,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+235,dresses,shorter than mid-thigh,
+235,skirts,shorter than mid-thigh,
+236,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+236,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+237,dresses,shorter than x inches from knee,2
+237,skirts,shorter than x inches from knee,
+237,shorts,shorter than x inches from knee,
+237,jumpers,shorter than x inches from knee,
+237,capris,shorter than x inches from knee,
+238,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+238,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+239,skirts,shorter than mid-thigh,
+239,shorts,shorter than mid-thigh,
+240,dresses,shorter than fingertips,
+240,skirts,shorter than fingertips,
+240,shorts,shorter than fingertips,
+240,skorts,shorter than fingertips,
+243,skirts,shorter than thumb knuckle,
+243,shorts,shorter than thumb knuckle,
+245,dresses,shorter than x inches from knee,3
+245,skirts,shorter than x inches from knee,3
+245,shorts,shorter than x inches from knee,3
+247,dresses,shorter than fingertips,
+247,skirts,shorter than fingertips,
+247,shorts,shorter than fingertips,
+249,shorts,shorter than x inches from knee,6
+250,skirts,shorter than mid-thigh,
+250,shorts,shorter than fingertips,
+251,shorts,shorter than x inch inseam,4
+252,clothing,shorter than mid-thigh,
+253,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+253,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+256,dresses,shorter than x inches from knee,4
+256,skirts,shorter than x inches from knee,4
+256,shorts,shorter than x inches from knee,4
+257,dresses,shorter than the knee,
+257,skirts,shorter than the knee,
+257,shorts,shorter than x inch inseam,5
+258,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+258,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+259,dresses,shorter than fingertips,
+259,skirts,shorter than fingertips,
+259,shorts,shorter than fingertips,
+260,dresses,shorter than fingertips,
+260,skirts,shorter than fingertips,
+260,shorts,shorter than fingertips,
+262,skirts,shorter than x inches from knee,width of dollar bill
+262,shorts,shorter than x inches from knee,width of dollar bill
+263,skirts,shorter than the knee,
+263,shorts,shorter than the knee,
+265,dresses,shorter than fingertips,
+265,skirts,shorter than fingertips,
+266,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+267,dresses,shorter than mid-thigh,
+267,skirts,shorter than mid-thigh,
+267,shorts,shorter than mid-thigh,
+269,skirts,shorter than the knee,
+269,shorts,shorter than the knee,
+270,skirts,shorter than x inches from knee,5
+270,shorts,shorter than x inches from knee,5
+271,dresses,shorter than x inches from knee,2
+271,skirts,shorter than x inches from knee,2
+271,shorts,shorter than x inches from knee,2
+272,skirts,shorter than fingertips,
+272,shorts,shorter than fingertips,
+273,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+273,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+274,skirts,shorter than mid-thigh,
+274,shorts,shorter than mid-thigh,
+275,skirts,shorter than fingertips,
+275,shorts,shorter than fingertips,
+275,skorts,shorter than fingertips,
+276,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+277,dresses,shorter than x inches from knee,3
+277,shorts,shorter than x inches from knee,3
+280,dresses,shorter than fingertips,
+280,skirts,shorter than fingertips,
+280,shorts,shorter than fingertips,
+282,skirts,shorter than fingertips,
+282,shorts,shorter than fingertips,
+283,skirts,shorter than x inches from knee,6
+283,shorts,shorter than x inch inseam,4
+284,shorts,shorter than x inches from knee,4
+285,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+285,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+285,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+286,dresses,shorter than fingertips,
+286,skirts,shorter than fingertips,
+286,shorts,shorter than fingertips,
+289,dresses,shorter than mid-thigh,
+289,skirts,shorter than mid-thigh,
+289,shorts,shorter than mid-thigh,
+291,dresses,shorter than x inches from knee,2
+291,skirts,shorter than x inches from knee,2
+291,shorts,shorter than x inches from knee,2
+292,shorts,shorter than mid-thigh,
+293,dresses,shorter than fingertips,
+293,skirts,shorter than fingertips,
+293,shorts,shorter than fingertips,
+294,dresses,shorter than fingertips,
+294,skirts,shorter than fingertips,
+294,shorts,shorter than fingertips,
+295,shorts,shorter than mid-thigh,
+297,dresses,shorter than fingertips,
+297,skirts,shorter than fingertips,
+297,shorts,shorter than fingertips,
+298,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+298,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+300,dresses,shorter than mid-thigh,
+300,pants,shorter than mid-thigh,
+300,skirts,shorter than mid-thigh,
+300,shorts,shorter than mid-thigh,
+304,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+304,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+305,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+305,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+306,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+307,dresses,shorter than fingertips,
+307,skirts,shorter than fingertips,
+307,shorts,shorter than fingertips,
+308,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+308,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+310,shirts,reach top of pants,
+311,skirts,"shorter than mid-thigh, ""short""/""inappropriate length"" (no exact measurement given)",
+311,shorts,"shorter than mid-thigh, ""short""/""inappropriate length"" (no exact measurement given)",
+313,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+313,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+314,dresses,"shorter than fingertips, shorter than the knee",
+314,shorts,"shorter than fingertips, shorter than the knee",
+315,dresses,shorter than x inches from knee,2
+315,pants,shorter than x inches from knee,2
+315,skirts,shorter than x inches from knee,2
+315,shorts,shorter than x inches from knee,2
+316,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+316,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+317,dresses,shorter than mid-thigh,
+317,skirts,shorter than mid-thigh,
+317,shorts,shorter than mid-thigh,
+318,shorts,shorter than mid-thigh,
+320,skirts,"shorter than 1"" below fingertips",
+320,shorts,"shorter than 1"" below fingertips",
+321,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+322,dresses,shorter than fingertips,
+322,skirts,shorter than fingertips,
+322,shorts,shorter than fingertips,
+323,skirts,shorter than fingertips,
+323,shorts,shorter than fingertips,
+325,shorts,shorter than mid-thigh,
+326,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+326,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+328,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+328,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+329,skirts,shorter than fingertips,
+329,shorts,shorter than fingertips,
+330,dresses,shorter than x inches from knee,5
+330,skirts,shorter than x inches from knee,5
+330,shorts,shorter than x inches from knee,5
+331,skirts,shorter than x inches from knee,3
+331,shorts,shorter than x inches from knee,3
+333,shorts,shorter than fingertips,
+334,dresses,shorter than the knee,
+334,skirts,shorter than the knee,
+334,shorts,shorter than the knee,
+335,skirts,shorter than fingertips,
+335,shorts,shorter than fingertips,
+336,skirts,shorter than the knee,
+336,shorts,shorter than the knee,
+337,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+340,skirts,shorter than mid-thigh,
+340,shorts,shorter than mid-thigh,
+341,skirts,shorter than fingertips,
+341,shorts,shorter than fingertips,
+343,skirts,shorter than fingertips,
+343,shorts,shorter than fingertips,
+344,dresses,shorter than 2 inches from fingertips,
+344,skirts,shorter than 2 inches from fingertips,
+344,shorts,shorter than 2 inches from fingertips,
+479,dresses,shorter than the knee,
+479,skirts,shorter than the knee,
+479,shorts,shorter than the knee,
+479,skorts,shorter than the knee,
+479,jumpers,shorter than the knee,
+479,culottes,shorter than the knee,
+478,dresses,shorter than mid-thigh,
+478,skirts,shorter than mid-thigh,
+478,shorts,shorter than mid-thigh,
+474,dresses,shorter than fingertips,
+474,skirts,shorter than fingertips,
+474,shorts,shorter than fingertips,
+473,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+472,skirts,shorter than mid-thigh,
+472,shorts,shorter than mid-thigh,
+471,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+471,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+471,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+470,skirts,shorter than mid-thigh,
+470,shorts,shorter than mid-thigh,
+345,dresses,shorter than fingertips,
+345,skirts,shorter than fingertips,
+345,shorts,shorter than fingertips,
+347,skirts,shorter than x inches from knee,4
+347,shorts,shorter than x inches from knee,4
+348,shorts,shorter than x inch inseam,3
+350,dresses,shorter than mid-thigh,
+350,shorts,shorter than x inch inseam,4
+351,dresses,shorter than x inches from knee,4
+351,skirts,shorter than x inches from knee,
+351,shorts,shorter than x inches from knee,
+345,dresses,shorter than mid-thigh,
+345,skirts,shorter than mid-thigh,
+345,shorts,shorter than mid-thigh,
+353,dresses,shorter than x inches from knee,3.5
+353,skirts,shorter than x inches from knee,3.5
+353,shorts,shorter than x inches from knee,3.5
+355,skirts,shorter than mid-thigh,
+355,shorts,shorter than mid-thigh,
+357,dresses,shorter than mid-thigh,
+357,skirts,shorter than mid-thigh,
+357,shorts,shorter than mid-thigh,
+357,slits,shorter than mid-thigh,
+358,dresses,shorter than mid-thigh,
+358,skirts,shorter than mid-thigh,
+358,shorts,shorter than mid-thigh,
+359,dresses,shorter than mid-thigh,
+359,skirts,shorter than mid-thigh,
+359,shorts,shorter than mid-thigh,
+360,skirts,,
+360,shorts,,
+360,skirts and shorts prohibited,,
+361,shorts,shorter than x inch inseam,6
+363,dresses,shorter than fingertips,
+363,skirts,shorter than fingertips,
+363,shorts,shorter than fingertips,
+364,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+364,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+365,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+365,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+366,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+366,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+367,dresses,shorter than x inches from knee,3
+367,skirts,shorter than x inches from knee,3
+367,shorts,shorter than x inches from knee,3
+368,dresses,shorter than the knee,
+368,skirts,shorter than the knee,
+368,shorts,shorter than the knee,
+369,dresses,shorter than mid-thigh,
+369,skirts,shorter than mid-thigh,
+369,shorts,shorter than mid-thigh,
+371,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+371,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+372,skirts,shorter than mid-thigh,
+372,shorts,shorter than mid-thigh,
+373,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+373,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+374,dresses,shorter than fingertips,
+374,skirts,shorter than fingertips,
+374,shorts,shorter than fingertips,
+376,dresses,shorter than fingertips,
+376,skirts,shorter than fingertips,
+376,shorts,shorter than fingertips,
+379,dresses,shorter than x inches from knee,3
+379,skirts,shorter than x inches from knee,3
+379,shorts,shorter than x inches from knee,3
+381,dresses,shorter than fingertips,
+381,skirts,shorter than fingertips,
+382,dresses,shorter than mid-thigh,
+382,skirts,shorter than mid-thigh,
+382,shorts,shorter than mid-thigh,
+383,dresses,reasonable coverage,
+383,skirts,reasonable coverage,
+383,shorts,reasonable coverage,
+384,dresses,shorter than mid-thigh,
+384,skirts,shorter than mid-thigh,
+384,shorts,shorter than mid-thigh,
+387,skirts,shorter than x inches from knee,3
+387,shorts,shorter than x inches from knee,3
+388,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+388,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+388,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+388,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+389,dresses,shorter than fingertips,
+389,skirts,shorter than fingertips,
+389,shorts,shorter than fingertips,
+391,skirts,shorter than x inch inseam,4
+391,shorts,shorter than x inch inseam,4
+392,skirts,shorter than fingertips,
+392,shorts,shorter than fingertips,
+395,apparel,shorter than x inches from knee,2
+396,dresses,shorter than fingertips,
+396,skirts,shorter than fingertips,
+396,shorts,shorter than fingertips,
+398,dresses,shorter than fingertips,
+398,skirts,shorter than fingertips,
+398,shorts,shorter than x inch inseam,4
+399,dresses,shorter than x inches from knee,2
+399,skirts,shorter than x inches from knee,
+399,shorts,shorter than x inches from knee,
+400,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+405,skirts,shorter than fingertips,
+405,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+406,skirts,shorter than fingertips,
+406,shorts,shorter than fingertips,
+469,shorts,shorter than fingertips,
+468,dresses,shorter than x inches from knee,3
+468,shorts,shorter than x inches from knee,3
+467,dresses,shorter than mid-thigh,
+467,skirts,shorter than mid-thigh,
+467,shorts,shorter than mid-thigh,
+466,skirts,shorter than fingertips,
+466,shorts,shorter than fingertips,
+465,skirts,shorter than mid-thigh,
+465,shorts,shorter than mid-thigh,
+464,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+464,skirts,shorter than x inches from knee,3
+464,shorts,shorter than x inches from knee,3
+462,dresses,shorter than fingertips,
+462,skirts,shorter than fingertips,
+462,shorts,shorter than fingertips,
+461,skirts,shorter than fingertips,
+461,shorts,shorter than fingertips,
+460,skirts,shorter than x inches from knee,5
+460,shorts,shorter than x inches from knee,5
+459,dresses,shorter than x inch inseam,6
+459,skirts,shorter than x inch inseam,6
+459,shorts,shorter than x inch inseam,4
+458,dresses,shorter than fingertips,
+458,skirts,shorter than fingertips,
+458,shorts,shorter than fingertips,
+457,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+457,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+456,dresses,long enough to move without exposing private parts,
+456,skirts,long enough to move without exposing private parts,
+456,shorts,long enough to move without exposing private parts,
+455,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+453,dresses,shorter than fingertips,
+453,skirts,shorter than fingertips,
+453,shorts,shorter than fingertips,
+452,skirts,shorter than fingertips,
+452,shorts,shorter than fingertips,
+451,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+450,dresses,shorter than mid-thigh,
+450,skirts,shorter than mid-thigh,
+450,shorts,shorter than mid-thigh,
+449,dresses,shorter than fingertips,
+449,skirts,shorter than fingertips,
+449,shorts,shorter than x inch inseam,2.5
+448,dresses,shorter than fingertips,
+448,skirts,shorter than fingertips,
+448,shorts,to end of thumb (shorts),
+446,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+446,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+445,skirts,shorter than mid-thigh,
+445,shorts,shorter than x inch inseam,4
+443,dresses,shorter than fingertips,
+443,skirts,shorter than fingertips,
+443,shorts,shorter than fingertips,
+442,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+441,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+441,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+440,dresses,shorter than fingertips,
+440,skirts,shorter than fingertips,
+440,shorts,shorter than fingertips,
+438,dresses,shorter than mid-thigh,
+438,skirts,shorter than mid-thigh,
+438,shorts,shorter than mid-thigh,
+437,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+437,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+437,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+435,dresses,shorter than fingertips,
+435,skirts,shorter than fingertips,
+435,shorts,shorter than fingertips,
+433,dresses,shorter than the knee,
+433,pants,shorter than the knee,
+433,skirts,shorter than the knee,
+433,shorts,shorter than the knee,
+430,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+429,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+425,skirts,shorter than mid-thigh,
+425,shorts,shorter than mid-thigh,
+423,dresses,shorter than fingertips,
+423,skirts,shorter than fingertips,
+423,shorts,shorter than fingertips,
+421,dresses,shorter than x inches from knee,3
+421,skirts,shorter than x inches from knee,3
+421,shorts,shorter than x inches from knee,3
+417,skirts,shorter than fingertips,
+417,shorts,shorter than fingertips,
+416,skirts,shorter than fingertips,
+416,shorts,shorter than fingertips,
+415,dresses,"""short""/""inappropriate length"" (no exact measurement given)",
+415,pants,"""short""/""inappropriate length"" (no exact measurement given)",
+415,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+415,shorts,"""short""/""inappropriate length"" (no exact measurement given)",
+413,dresses,shorter than fingertips,
+413,skirts,shorter than fingertips,
+413,shorts,shorter than fingertips,
+413,skorts,shorter than fingertips,
+412,dresses,shorter than x inches from knee,4
+412,skirts,shorter than x inches from knee,4
+412,shorts,shorter than x inches from knee,4
+411,dresses,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+411,skirts,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+411,shorts,"shorter than the knee, ""short""/""inappropriate length"" (no exact measurement given)",
+410,skirts,shorter than mid-thigh,
+410,shorts,shorter than mid-thigh,
+409,skirts,shorter than mid-thigh,
+409,shorts,shorter than mid-thigh,
+407,skirts,"""short""/""inappropriate length"" (no exact measurement given)",
+407,shorts,"""short""/""inappropriate length"" (no exact measurement given)",

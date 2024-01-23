@@ -1,0 +1,1471 @@
+school_id,sanction,offense
+30,attend Saturday school,3rd
+88,attend Saturday school,2nd
+96,attend Saturday school,2nd
+121,attend Saturday school,3rd
+203,attend Saturday school,Any
+333,attend Saturday school,3rd
+346,attend Saturday school,4th
+357,attend Saturday school,3rd
+369,attend Saturday school,Any
+387,attend Saturday school,4th
+412,attend Saturday school,Any
+407,attend Saturday school,1st
+407,attend Saturday school,3rd
+278,campus community service,Any
+0,change clothes,Any
+6,change clothes,Any
+9,change clothes,Any
+11,change clothes,Any
+12,change clothes,Any
+13,change clothes,Any
+14,change clothes,Any
+15,change clothes,Any
+16,change clothes,Any
+18,change clothes,Any
+19,change clothes,1st
+23,change clothes,1st
+23,change clothes,2nd
+23,change clothes,3rd
+23,change clothes,4th
+24,change clothes,1st
+24,change clothes,2nd
+24,change clothes,3rd
+28,change clothes,Any
+29,change clothes,1st
+32,change clothes,Any
+33,change clothes,1st
+36,change clothes,1st
+36,change clothes,2nd
+36,change clothes,3rd
+36,change clothes,4th
+37,change clothes,1st
+38,change clothes,Any
+39,change clothes,1st
+39,change clothes,2nd
+41,change clothes,Any
+42,change clothes,Any
+43,change clothes,1st
+44,change clothes,1st
+44,change clothes,2nd
+44,change clothes,3rd
+45,change clothes,Any
+46,change clothes,Any
+47,change clothes,Any
+49,change clothes,Any
+50,change clothes,Any
+53,change clothes,Any
+54,change clothes,Any
+55,change clothes,Any
+56,change clothes,Any
+57,change clothes,1st
+57,change clothes,2nd
+57,change clothes,3rd
+62,change clothes,Any
+63,change clothes,Any
+64,change clothes,Any
+65,change clothes,Any
+67,change clothes,Any
+68,change clothes,Any
+69,change clothes,Any
+70,change clothes,Any
+71,change clothes,Any
+74,change clothes,Any
+75,change clothes,Any
+77,change clothes,Any
+79,change clothes,Any
+80,change clothes,Any
+81,change clothes,1st
+82,change clothes,Any
+83,change clothes,Any
+84,change clothes,Any
+87,change clothes,Any
+89,change clothes,Any
+91,change clothes,Any
+92,change clothes,Any
+93,change clothes,Any
+94,change clothes,Any
+96,change clothes,Any
+97,change clothes,1st
+97,change clothes,2nd
+98,change clothes,Any
+99,change clothes,1st
+99,change clothes,2nd
+99,change clothes,3rd
+100,change clothes,1st
+100,change clothes,2nd
+101,change clothes,Any
+102,change clothes,Any
+104,change clothes,Any
+105,change clothes,Any
+108,change clothes,Any
+109,change clothes,Any
+110,change clothes,Any
+111,change clothes,Any
+112,change clothes,Any
+113,change clothes,Any
+114,change clothes,Any
+115,change clothes,1st
+116,change clothes,Any
+117,change clothes,Any
+118,change clothes,Any
+120,change clothes,Any
+121,change clothes,Any
+122,change clothes,Any
+123,change clothes,Any
+124,change clothes,Any
+125,change clothes,Any
+126,change clothes,Any
+127,change clothes,1st
+127,change clothes,2nd
+127,change clothes,3rd
+132,change clothes,Any
+134,change clothes,Any
+136,change clothes,Any
+137,change clothes,Any
+138,change clothes,Any
+139,change clothes,Any
+140,change clothes,Any
+142,change clothes,Any
+143,change clothes,1st
+144,change clothes,Any
+147,change clothes,1st
+147,change clothes,2nd
+148,change clothes,1st
+148,change clothes,2nd
+152,change clothes,Any
+153,change clothes,1st
+154,change clothes,Any
+156,change clothes,Any
+157,change clothes,Any
+159,change clothes,Any
+161,change clothes,Any
+162,change clothes,4th
+163,change clothes,4th
+165,change clothes,Any
+168,change clothes,Any
+169,change clothes,Any
+170,change clothes,Any
+172,change clothes,Any
+173,change clothes,1st
+174,change clothes,1st
+175,change clothes,Any
+178,change clothes,Any
+181,change clothes,Any
+182,change clothes,Any
+184,change clothes,Any
+185,change clothes,Any
+187,change clothes,Any
+188,change clothes,Any
+189,change clothes,Any
+190,change clothes,Any
+192,change clothes,Any
+193,change clothes,Any
+194,change clothes,Any
+195,change clothes,Any
+196,change clothes,Any
+197,change clothes,Any
+199,change clothes,Any
+200,change clothes,Any
+201,change clothes,Any
+202,change clothes,Any
+203,change clothes,Any
+204,change clothes,Any
+205,change clothes,Any
+208,change clothes,Any
+210,change clothes,Any
+211,change clothes,Any
+212,change clothes,Any
+213,change clothes,Any
+214,change clothes,Any
+219,change clothes,Any
+222,change clothes,Any
+223,change clothes,Any
+226,change clothes,Any
+228,change clothes,1st
+228,change clothes,3rd
+228,change clothes,4th
+230,change clothes,Any
+233,change clothes,Any
+235,change clothes,Any
+236,change clothes,Any
+237,change clothes,Any
+238,change clothes,Any
+239,change clothes,Any
+242,change clothes,Any
+243,change clothes,Any
+244,change clothes,Any
+245,change clothes,Any
+248,change clothes,Any
+249,change clothes,Any
+250,change clothes,Any
+251,change clothes,Any
+252,change clothes,Any
+257,change clothes,Any
+258,change clothes,Any
+259,change clothes,Any
+260,change clothes,Any
+261,change clothes,Any
+262,change clothes,Any
+265,change clothes,Any
+266,change clothes,Any
+267,change clothes,Any
+269,change clothes,Any
+273,change clothes,Any
+274,change clothes,Any
+278,change clothes,Any
+279,change clothes,Any
+280,change clothes,Any
+281,change clothes,Any
+284,change clothes,1st
+284,change clothes,2nd
+284,change clothes,3rd
+284,change clothes,4th
+284,change clothes,5th
+284,change clothes,Any
+287,change clothes,Any
+288,change clothes,Any
+289,change clothes,Any
+290,change clothes,Any
+291,change clothes,Any
+292,change clothes,Any
+293,change clothes,Any
+294,change clothes,Any
+295,change clothes,Any
+296,change clothes,Any
+297,change clothes,1st
+297,change clothes,2nd
+297,change clothes,3rd
+297,change clothes,4th
+297,change clothes,5th
+298,change clothes,Any
+299,change clothes,Any
+300,change clothes,Any
+301,change clothes,Any
+302,change clothes,1st
+305,change clothes,1st
+306,change clothes,1st
+308,change clothes,Any
+309,change clothes,Any
+310,change clothes,1st
+311,change clothes,1st
+312,change clothes,1st
+313,change clothes,1st
+314,change clothes,Any
+315,change clothes,Any
+316,change clothes,Any
+319,change clothes,Any
+322,change clothes,Any
+324,change clothes,1st
+326,change clothes,Any
+327,change clothes,Any
+328,change clothes,Any
+330,change clothes,Any
+331,change clothes,Any
+332,change clothes,Any
+333,change clothes,1st
+333,change clothes,2nd
+333,change clothes,3rd
+334,change clothes,Any
+336,change clothes,Any
+337,change clothes,Any
+338,change clothes,1st
+339,change clothes,1st
+341,change clothes,1st
+344,change clothes,Any
+480,change clothes,Any
+479,change clothes,Any
+478,change clothes,Any
+474,change clothes,Any
+472,change clothes,Any
+345,change clothes,1st
+345,change clothes,2nd
+346,change clothes,1st
+347,change clothes,Any
+348,change clothes,Any
+350,change clothes,Any
+352,change clothes,Any
+345,change clothes,1st
+345,change clothes,2nd
+349,change clothes,Any
+353,change clothes,1st
+358,change clothes,1st
+361,change clothes,Any
+363,change clothes,Any
+364,change clothes,Any
+366,change clothes,Any
+367,change clothes,Any
+368,change clothes,Any
+374,change clothes,Any
+375,change clothes,Any
+377,change clothes,Any
+378,change clothes,Any
+379,change clothes,Any
+381,change clothes,Any
+383,change clothes,Any
+388,change clothes,Any
+390,change clothes,Any
+391,change clothes,Any
+392,change clothes,Any
+393,change clothes,2nd
+397,change clothes,Any
+398,change clothes,Any
+401,change clothes,Any
+403,change clothes,Any
+404,change clothes,Any
+405,change clothes,Any
+468,change clothes,Any
+467,change clothes,Any
+466,change clothes,Any
+465,change clothes,Any
+462,change clothes,1st
+462,change clothes,2nd
+461,change clothes,1st
+459,change clothes,Any
+458,change clothes,1st
+458,change clothes,2nd
+458,change clothes,3rd
+457,change clothes,Any
+456,change clothes,Any
+455,change clothes,Any
+453,change clothes,Any
+452,change clothes,Any
+451,change clothes,Any
+449,change clothes,Any
+448,change clothes,Any
+447,change clothes,Any
+446,change clothes,Any
+445,change clothes,1st
+445,change clothes,2nd
+444,change clothes,Any
+443,change clothes,Any
+442,change clothes,Any
+441,change clothes,Any
+440,change clothes,Any
+436,change clothes,Any
+435,change clothes,1st
+435,change clothes,2nd
+435,change clothes,3rd
+435,change clothes,4th
+435,change clothes,5th
+434,change clothes,Any
+431,change clothes,Any
+430,change clothes,Any
+426,change clothes,Any
+424,change clothes,Any
+423,change clothes,Any
+420,change clothes,Any
+418,change clothes,Any
+415,change clothes,1st
+415,change clothes,2nd
+414,change clothes,Any
+0,cover offending items,Any
+13,cover offending items,Any
+17,cover offending items,Any
+22,cover offending items,1st
+28,cover offending items,Any
+38,cover offending items,Any
+42,cover offending items,Any
+46,cover offending items,Any
+50,cover offending items,Any
+55,cover offending items,Any
+56,cover offending items,Any
+63,cover offending items,Any
+82,cover offending items,Any
+98,cover offending items,Any
+109,cover offending items,Any
+123,cover offending items,Any
+132,cover offending items,Any
+144,cover offending items,Any
+152,cover offending items,Any
+161,cover offending items,Any
+162,cover offending items,4th
+165,cover offending items,Any
+169,cover offending items,Any
+173,cover offending items,1st
+175,cover offending items,Any
+190,cover offending items,Any
+192,cover offending items,Any
+208,cover offending items,Any
+239,cover offending items,Any
+242,cover offending items,Any
+251,cover offending items,Any
+252,cover offending items,Any
+259,cover offending items,Any
+262,cover offending items,Any
+265,cover offending items,Any
+281,cover offending items,Any
+287,cover offending items,Any
+290,cover offending items,Any
+301,cover offending items,Any
+305,cover offending items,1st
+312,cover offending items,1st
+316,cover offending items,Any
+317,cover offending items,Any
+324,cover offending items,1st
+328,cover offending items,Any
+341,cover offending items,1st
+344,cover offending items,Any
+345,cover offending items,1st
+345,cover offending items,2nd
+366,cover offending items,Any
+374,cover offending items,Any
+375,cover offending items,Any
+388,cover offending items,Any
+401,cover offending items,Any
+403,cover offending items,Any
+404,cover offending items,Any
+457,cover offending items,Any
+445,cover offending items,1st
+445,cover offending items,2nd
+444,cover offending items,Any
+443,cover offending items,Any
+420,cover offending items,Any
+418,cover offending items,Any
+14,detention,Any
+23,detention,2nd
+24,detention,2nd
+27,detention,1st
+27,detention,2nd
+30,detention,2nd
+39,detention,2nd
+57,detention,2nd
+57,detention,3rd
+62,detention,Any
+86,detention,1st
+100,detention,2nd
+110,detention,Any
+119,detention,2nd
+119,detention,3rd
+119,detention,4th
+127,detention,2nd
+147,detention,2nd
+163,detention,4th
+166,detention,2nd
+168,detention,Any
+173,detention,2nd
+187,detention,Any
+194,detention,Any
+203,detention,Any
+205,detention,Any
+213,detention,Any
+269,detention,Any
+278,detention,Any
+282,detention,2nd
+284,detention,3rd
+284,detention,4th
+284,detention,5th
+289,detention,Any
+290,detention,Any
+311,detention,2nd
+311,detention,3rd
+333,detention,2nd
+337,detention,Any
+473,detention,Any
+345,detention,1st
+345,detention,2nd
+345,detention,2nd
+369,detention,Any
+383,detention,2nd
+383,detention,3rd
+393,detention,2nd
+467,detention,Any
+462,detention,2nd
+460,detention,2nd
+458,detention,2nd
+458,detention,3rd
+453,detention,Any
+435,detention,2nd
+435,detention,3rd
+0,in school suspension  ISS,Any
+1,in school suspension  ISS,Any
+9,in school suspension  ISS,Any
+12,in school suspension  ISS,Any
+16,in school suspension  ISS,Any
+17,in school suspension  ISS,Any
+18,in school suspension  ISS,Any
+23,in school suspension  ISS,3rd
+24,in school suspension  ISS,3rd
+27,in school suspension  ISS,1st
+27,in school suspension  ISS,2nd
+27,in school suspension  ISS,3rd
+27,in school suspension  ISS,4th
+36,in school suspension  ISS,3rd
+36,in school suspension  ISS,4th
+37,in school suspension  ISS,1st
+38,in school suspension  ISS,Any
+39,in school suspension  ISS,1st
+39,in school suspension  ISS,2nd
+42,in school suspension  ISS,Any
+44,in school suspension  ISS,2nd
+50,in school suspension  ISS,Any
+56,in school suspension  ISS,Any
+63,in school suspension  ISS,Any
+69,in school suspension  ISS,Any
+76,in school suspension  ISS,4th
+81,in school suspension  ISS,2nd
+81,in school suspension  ISS,3rd
+82,in school suspension  ISS,2nd
+84,in school suspension  ISS,Any
+88,in school suspension  ISS,3rd
+89,in school suspension  ISS,Any
+90,in school suspension  ISS,Any
+97,in school suspension  ISS,3rd
+98,in school suspension  ISS,Any
+99,in school suspension  ISS,3rd
+102,in school suspension  ISS,Any
+112,in school suspension  ISS,Any
+113,in school suspension  ISS,Any
+117,in school suspension  ISS,Any
+123,in school suspension  ISS,Any
+126,in school suspension  ISS,Any
+127,in school suspension  ISS,2nd
+127,in school suspension  ISS,3rd
+140,in school suspension  ISS,Any
+143,in school suspension  ISS,1st
+143,in school suspension  ISS,2nd
+144,in school suspension  ISS,Any
+147,in school suspension  ISS,3rd
+148,in school suspension  ISS,Any
+157,in school suspension  ISS,Any
+165,in school suspension  ISS,Any
+166,in school suspension  ISS,3rd
+172,in school suspension  ISS,Any
+174,in school suspension  ISS,Any
+175,in school suspension  ISS,Any
+178,in school suspension  ISS,Any
+182,in school suspension  ISS,Any
+185,in school suspension  ISS,Any
+193,in school suspension  ISS,Any
+197,in school suspension  ISS,Any
+199,in school suspension  ISS,Any
+203,in school suspension  ISS,Any
+208,in school suspension  ISS,Any
+210,in school suspension  ISS,Any
+213,in school suspension  ISS,Any
+220,in school suspension  ISS,1st
+220,in school suspension  ISS,2nd
+228,in school suspension  ISS,3rd
+228,in school suspension  ISS,4th
+237,in school suspension  ISS,Any
+242,in school suspension  ISS,Any
+245,in school suspension  ISS,Any
+248,in school suspension  ISS,Any
+250,in school suspension  ISS,Any
+251,in school suspension  ISS,Any
+256,in school suspension  ISS,Any
+263,in school suspension  ISS,Any
+269,in school suspension  ISS,Any
+271,in school suspension  ISS,Any
+274,in school suspension  ISS,Any
+275,in school suspension  ISS,Any
+278,in school suspension  ISS,Any
+280,in school suspension  ISS,Any
+281,in school suspension  ISS,Any
+284,in school suspension  ISS,5th
+297,in school suspension  ISS,3rd
+297,in school suspension  ISS,4th
+297,in school suspension  ISS,5th
+312,in school suspension  ISS,1st
+314,in school suspension  ISS,Any
+317,in school suspension  ISS,Any
+324,in school suspension  ISS,1st
+325,in school suspension  ISS,2nd
+331,in school suspension  ISS,Any
+334,in school suspension  ISS,Any
+335,in school suspension  ISS,Any
+340,in school suspension  ISS,Any
+479,in school suspension  ISS,Any
+474,in school suspension  ISS,Any
+345,in school suspension  ISS,1st
+345,in school suspension  ISS,2nd
+345,in school suspension  ISS,1st
+345,in school suspension  ISS,2nd
+353,in school suspension  ISS,2nd
+357,in school suspension  ISS,4th
+359,in school suspension  ISS,3rd
+360,in school suspension  ISS,Any
+374,in school suspension  ISS,Any
+375,in school suspension  ISS,Any
+379,in school suspension  ISS,Any
+387,in school suspension  ISS,5th
+401,in school suspension  ISS,Any
+403,in school suspension  ISS,Any
+404,in school suspension  ISS,Any
+462,in school suspension  ISS,2nd
+460,in school suspension  ISS,3rd
+460,in school suspension  ISS,4th
+444,in school suspension  ISS,Any
+443,in school suspension  ISS,Any
+438,in school suspension  ISS,2nd
+435,in school suspension  ISS,Any
+420,in school suspension  ISS,Any
+418,in school suspension  ISS,Any
+413,in school suspension  ISS,2nd
+14,parents called,Any
+17,parents called,Any
+19,parents called,2nd
+24,parents called,1st
+25,parents called,Any
+27,parents called,1st
+27,parents called,2nd
+27,parents called,3rd
+27,parents called,4th
+33,parents called,1st
+44,parents called,1st
+44,parents called,2nd
+44,parents called,3rd
+47,parents called,Any
+49,parents called,Any
+54,parents called,Any
+65,parents called,Any
+76,parents called,1st
+76,parents called,2nd
+76,parents called,3rd
+86,parents called,1st
+91,parents called,Any
+97,parents called,1st
+97,parents called,2nd
+99,parents called,1st
+99,parents called,2nd
+99,parents called,3rd
+100,parents called,1st
+100,parents called,2nd
+113,parents called,Any
+114,parents called,Any
+115,parents called,1st
+119,parents called,3rd
+122,parents called,Any
+131,parents called,Any
+132,parents called,Any
+134,parents called,Any
+138,parents called,Any
+140,parents called,Any
+161,parents called,Any
+168,parents called,Any
+170,parents called,Any
+172,parents called,Any
+203,parents called,Any
+214,parents called,Any
+222,parents called,Any
+225,parents called,1st
+228,parents called,3rd
+266,parents called,Any
+267,parents called,Any
+274,parents called,Any
+282,parents called,1st
+282,parents called,2nd
+284,parents called,2nd
+284,parents called,3rd
+284,parents called,4th
+284,parents called,5th
+285,parents called,Any
+287,parents called,Any
+289,parents called,Any
+290,parents called,Any
+296,parents called,Any
+297,parents called,1st
+297,parents called,2nd
+297,parents called,3rd
+297,parents called,4th
+297,parents called,5th
+310,parents called,1st
+311,parents called,2nd
+311,parents called,3rd
+312,parents called,2nd
+316,parents called,Any
+323,parents called,Any
+328,parents called,Any
+333,parents called,1st
+333,parents called,2nd
+333,parents called,3rd
+337,parents called,Any
+338,parents called,1st
+344,parents called,Any
+478,parents called,1st
+473,parents called,Any
+346,parents called,2nd
+346,parents called,3rd
+350,parents called,Any
+357,parents called,2nd
+357,parents called,3rd
+358,parents called,1st
+359,parents called,2nd
+359,parents called,3rd
+359,parents called,4th
+364,parents called,Any
+365,parents called,Any
+383,parents called,Any
+387,parents called,1st
+388,parents called,Any
+390,parents called,Any
+391,parents called,Any
+465,parents called,Any
+462,parents called,1st
+462,parents called,2nd
+456,parents called,Any
+451,parents called,Any
+448,parents called,Any
+447,parents called,Any
+443,parents called,Any
+442,parents called,Any
+441,parents called,Any
+438,parents called,1st
+430,parents called,Any
+416,parents called,Any
+415,parents called,2nd
+413,parents called,2nd
+3,parents must bring a change of clothes,Any
+9,parents must bring a change of clothes,Any
+12,parents must bring a change of clothes,Any
+15,parents must bring a change of clothes,Any
+16,parents must bring a change of clothes,Any
+17,parents must bring a change of clothes,Any
+32,parents must bring a change of clothes,Any
+35,parents must bring a change of clothes,1st
+39,parents must bring a change of clothes,1st
+39,parents must bring a change of clothes,2nd
+45,parents must bring a change of clothes,Any
+47,parents must bring a change of clothes,Any
+52,parents must bring a change of clothes,Any
+53,parents must bring a change of clothes,Any
+57,parents must bring a change of clothes,1st
+57,parents must bring a change of clothes,2nd
+57,parents must bring a change of clothes,3rd
+59,parents must bring a change of clothes,Any
+61,parents must bring a change of clothes,Any
+63,parents must bring a change of clothes,Any
+65,parents must bring a change of clothes,Any
+66,parents must bring a change of clothes,Any
+68,parents must bring a change of clothes,Any
+69,parents must bring a change of clothes,Any
+71,parents must bring a change of clothes,Any
+82,parents must bring a change of clothes,1st
+84,parents must bring a change of clothes,Any
+89,parents must bring a change of clothes,Any
+96,parents must bring a change of clothes,Any
+98,parents must bring a change of clothes,Any
+99,parents must bring a change of clothes,1st
+99,parents must bring a change of clothes,2nd
+99,parents must bring a change of clothes,3rd
+102,parents must bring a change of clothes,Any
+112,parents must bring a change of clothes,Any
+113,parents must bring a change of clothes,Any
+116,parents must bring a change of clothes,Any
+117,parents must bring a change of clothes,Any
+121,parents must bring a change of clothes,Any
+124,parents must bring a change of clothes,Any
+126,parents must bring a change of clothes,Any
+131,parents must bring a change of clothes,Any
+137,parents must bring a change of clothes,Any
+140,parents must bring a change of clothes,Any
+143,parents must bring a change of clothes,1st
+157,parents must bring a change of clothes,Any
+161,parents must bring a change of clothes,Any
+162,parents must bring a change of clothes,4th
+168,parents must bring a change of clothes,Any
+173,parents must bring a change of clothes,2nd
+174,parents must bring a change of clothes,Any
+182,parents must bring a change of clothes,Any
+193,parents must bring a change of clothes,Any
+197,parents must bring a change of clothes,Any
+199,parents must bring a change of clothes,Any
+207,parents must bring a change of clothes,Any
+210,parents must bring a change of clothes,Any
+220,parents must bring a change of clothes,1st
+223,parents must bring a change of clothes,Any
+224,parents must bring a change of clothes,2nd
+237,parents must bring a change of clothes,Any
+239,parents must bring a change of clothes,Any
+245,parents must bring a change of clothes,Any
+248,parents must bring a change of clothes,Any
+250,parents must bring a change of clothes,Any
+270,parents must bring a change of clothes,Any
+271,parents must bring a change of clothes,Any
+275,parents must bring a change of clothes,Any
+282,parents must bring a change of clothes,1st
+282,parents must bring a change of clothes,2nd
+289,parents must bring a change of clothes,Any
+301,parents must bring a change of clothes,Any
+302,parents must bring a change of clothes,1st
+312,parents must bring a change of clothes,1st
+313,parents must bring a change of clothes,1st
+314,parents must bring a change of clothes,Any
+316,parents must bring a change of clothes,Any
+317,parents must bring a change of clothes,Any
+331,parents must bring a change of clothes,Any
+332,parents must bring a change of clothes,Any
+333,parents must bring a change of clothes,1st
+333,parents must bring a change of clothes,2nd
+333,parents must bring a change of clothes,3rd
+335,parents must bring a change of clothes,Any
+479,parents must bring a change of clothes,Any
+474,parents must bring a change of clothes,Any
+472,parents must bring a change of clothes,Any
+353,parents must bring a change of clothes,2nd
+358,parents must bring a change of clothes,1st
+367,parents must bring a change of clothes,Any
+390,parents must bring a change of clothes,Any
+391,parents must bring a change of clothes,Any
+397,parents must bring a change of clothes,Any
+401,parents must bring a change of clothes,Any
+404,parents must bring a change of clothes,Any
+460,parents must bring a change of clothes,1st
+460,parents must bring a change of clothes,2nd
+460,parents must bring a change of clothes,3rd
+458,parents must bring a change of clothes,Any
+453,parents must bring a change of clothes,Any
+435,parents must bring a change of clothes,Any
+434,parents must bring a change of clothes,Any
+431,parents must bring a change of clothes,Any
+423,parents must bring a change of clothes,Any
+6,sent home for the day,Any
+7,sent home for the day,Any
+10,sent home for the day,2nd
+11,sent home for the day,Any
+22,sent home for the day,2nd
+24,sent home for the day,1st
+24,sent home for the day,2nd
+24,sent home for the day,3rd
+32,sent home for the day,Any
+35,sent home for the day,1st
+38,sent home for the day,Any
+41,sent home for the day,Any
+42,sent home for the day,Any
+43,sent home for the day,1st
+45,sent home for the day,Any
+49,sent home for the day,Any
+52,sent home for the day,Any
+53,sent home for the day,Any
+54,sent home for the day,Any
+55,sent home for the day,Any
+57,sent home for the day,3rd
+58,sent home for the day,Any
+61,sent home for the day,Any
+64,sent home for the day,Any
+67,sent home for the day,Any
+80,sent home for the day,Any
+87,sent home for the day,Any
+91,sent home for the day,Any
+92,sent home for the day,Any
+94,sent home for the day,Any
+107,sent home for the day,Any
+109,sent home for the day,Any
+110,sent home for the day,Any
+118,sent home for the day,Any
+121,sent home for the day,Any
+122,sent home for the day,Any
+131,sent home for the day,Any
+132,sent home for the day,Any
+133,sent home for the day,Any
+134,sent home for the day,Any
+137,sent home for the day,Any
+138,sent home for the day,Any
+139,sent home for the day,Any
+140,sent home for the day,Any
+145,sent home for the day,Any
+148,sent home for the day,Any
+156,sent home for the day,Any
+163,sent home for the day,4th
+172,sent home for the day,Any
+173,sent home for the day,2nd
+173,sent home for the day,3rd
+188,sent home for the day,Any
+190,sent home for the day,Any
+192,sent home for the day,Any
+196,sent home for the day,Any
+203,sent home for the day,Any
+230,sent home for the day,Any
+235,sent home for the day,Any
+252,sent home for the day,Any
+256,sent home for the day,Any
+261,sent home for the day,Any
+265,sent home for the day,Any
+267,sent home for the day,Any
+269,sent home for the day,Any
+273,sent home for the day,Any
+276,sent home for the day,Any
+279,sent home for the day,Any
+287,sent home for the day,Any
+288,sent home for the day,Any
+289,sent home for the day,Any
+295,sent home for the day,Any
+299,sent home for the day,Any
+311,sent home for the day,1st
+315,sent home for the day,Any
+326,sent home for the day,Any
+330,sent home for the day,Any
+337,sent home for the day,Any
+339,sent home for the day,1st
+341,sent home for the day,2nd
+477,sent home for the day,Any
+349,sent home for the day,Any
+349,sent home for the day,Any
+361,sent home for the day,Any
+366,sent home for the day,Any
+388,sent home for the day,Any
+392,sent home for the day,Any
+397,sent home for the day,Any
+405,sent home for the day,Any
+467,sent home for the day,Any
+465,sent home for the day,Any
+455,sent home for the day,Any
+447,sent home for the day,Any
+445,sent home for the day,1st
+444,sent home for the day,Any
+441,sent home for the day,Any
+440,sent home for the day,Any
+438,sent home for the day,2nd
+436,sent home for the day,Any
+431,sent home for the day,Any
+430,sent home for the day,Any
+426,sent home for the day,Any
+415,sent home for the day,3rd
+414,sent home for the day,Any
+409,sent home for the day,Any
+0,suspension,Any
+13,suspension,Any
+14,suspension,Any
+17,suspension,Any
+18,suspension,Any
+19,suspension,2nd
+19,suspension,3rd
+19,suspension,4th
+22,suspension,3rd
+23,suspension,4th
+27,suspension,2nd
+27,suspension,3rd
+27,suspension,4th
+30,suspension,4th
+36,suspension,5th
+38,suspension,Any
+39,suspension,Any
+42,suspension,Any
+43,suspension,3rd
+44,suspension,3rd
+49,suspension,Any
+50,suspension,Any
+56,suspension,Any
+62,suspension,Any
+65,suspension,Any
+81,suspension,4th
+81,suspension,5th
+100,suspension,3rd
+115,suspension,2nd
+121,suspension,Any
+123,suspension,Any
+130,suspension,Any
+138,suspension,Any
+144,suspension,Any
+161,suspension,Any
+162,suspension,4th
+163,suspension,4th
+165,suspension,Any
+168,suspension,Any
+169,suspension,Any
+175,suspension,Any
+178,suspension,Any
+194,suspension,Any
+203,suspension,Any
+205,suspension,Any
+208,suspension,Any
+213,suspension,Any
+220,suspension,3rd
+222,suspension,Any
+224,suspension,3rd
+225,suspension,3rd
+228,suspension,5th
+239,suspension,Any
+242,suspension,Any
+251,suspension,Any
+262,suspension,Any
+266,suspension,Any
+269,suspension,Any
+278,suspension,Any
+281,suspension,Any
+284,suspension,5th
+297,suspension,1st
+297,suspension,2nd
+305,suspension,2nd
+306,suspension,2nd
+311,suspension,3rd
+312,suspension,2nd
+316,suspension,Any
+324,suspension,2nd
+325,suspension,2nd
+325,suspension,3rd
+326,suspension,Any
+328,suspension,Any
+333,suspension,4th
+337,suspension,Any
+344,suspension,Any
+478,suspension,3rd
+345,suspension,2nd
+346,suspension,5th
+345,suspension,2nd
+356,suspension,Any
+357,suspension,5th
+358,suspension,3rd
+359,suspension,4th
+360,suspension,Any
+365,suspension,Any
+368,suspension,Any
+374,suspension,Any
+375,suspension,Any
+388,suspension,Any
+393,suspension,3rd
+403,suspension,Any
+406,suspension,Any
+469,suspension,Any
+468,suspension,Any
+462,suspension,3rd
+461,suspension,2nd
+461,suspension,3rd
+461,suspension,4th
+458,suspension,3rd
+448,suspension,Any
+445,suspension,2nd
+445,suspension,3rd
+443,suspension,Any
+438,suspension,3rd
+435,suspension,4th
+435,suspension,5th
+429,suspension,Any
+420,suspension,Any
+418,suspension,Any
+407,suspension,3rd
+38,transfer expulsion,Any
+81,transfer expulsion,Any
+162,transfer expulsion,4th
+178,transfer expulsion,Any
+203,transfer expulsion,Any
+225,transfer expulsion,3rd
+325,transfer expulsion,3rd
+368,transfer expulsion,Any
+448,transfer expulsion,Any
+429,transfer expulsion,Any
+0,undefined possible consequences,Any
+1,undefined possible consequences,Any
+2,undefined possible consequences,Any
+3,undefined possible consequences,Any
+4,undefined possible consequences,Any
+6,undefined possible consequences,Any
+7,undefined possible consequences,Any
+9,undefined possible consequences,Any
+13,undefined possible consequences,Any
+16,undefined possible consequences,Any
+17,undefined possible consequences,Any
+18,undefined possible consequences,Any
+21,undefined possible consequences,Any
+22,undefined possible consequences,3rd
+28,undefined possible consequences,Any
+29,undefined possible consequences,2nd
+33,undefined possible consequences,2nd
+34,undefined possible consequences,Any
+39,undefined possible consequences,3rd
+42,undefined possible consequences,Any
+46,undefined possible consequences,Any
+49,undefined possible consequences,Any
+50,undefined possible consequences,Any
+52,undefined possible consequences,Any
+54,undefined possible consequences,Any
+55,undefined possible consequences,Any
+56,undefined possible consequences,Any
+58,undefined possible consequences,Any
+61,undefined possible consequences,Any
+62,undefined possible consequences,Any
+65,undefined possible consequences,Any
+67,undefined possible consequences,Any
+71,undefined possible consequences,Any
+75,undefined possible consequences,Any
+84,undefined possible consequences,Any
+89,undefined possible consequences,Any
+91,undefined possible consequences,Any
+92,undefined possible consequences,Any
+93,undefined possible consequences,Any
+95,undefined possible consequences,Any
+98,undefined possible consequences,Any
+99,undefined possible consequences,Any
+101,undefined possible consequences,Any
+102,undefined possible consequences,Any
+104,undefined possible consequences,Any
+105,undefined possible consequences,Any
+108,undefined possible consequences,Any
+112,undefined possible consequences,Any
+113,undefined possible consequences,Any
+115,undefined possible consequences,2nd
+116,undefined possible consequences,Any
+117,undefined possible consequences,Any
+120,undefined possible consequences,Any
+123,undefined possible consequences,Any
+124,undefined possible consequences,Any
+126,undefined possible consequences,Any
+134,undefined possible consequences,Any
+138,undefined possible consequences,Any
+140,undefined possible consequences,Any
+141,undefined possible consequences,Any
+142,undefined possible consequences,Any
+143,undefined possible consequences,3rd
+144,undefined possible consequences,Any
+145,undefined possible consequences,Any
+148,undefined possible consequences,3rd
+152,undefined possible consequences,Any
+156,undefined possible consequences,Any
+157,undefined possible consequences,Any
+159,undefined possible consequences,Any
+160,undefined possible consequences,Any
+161,undefined possible consequences,Any
+162,undefined possible consequences,4th
+163,undefined possible consequences,4th
+164,undefined possible consequences,Any
+165,undefined possible consequences,Any
+166,undefined possible consequences,4th
+167,undefined possible consequences,Any
+168,undefined possible consequences,Any
+169,undefined possible consequences,Any
+170,undefined possible consequences,Any
+171,undefined possible consequences,Any
+172,undefined possible consequences,Any
+174,undefined possible consequences,1st
+174,undefined possible consequences,Any
+175,undefined possible consequences,Any
+179,undefined possible consequences,Any
+181,undefined possible consequences,Any
+182,undefined possible consequences,Any
+185,undefined possible consequences,Any
+186,undefined possible consequences,Any
+192,undefined possible consequences,Any
+193,undefined possible consequences,Any
+194,undefined possible consequences,Any
+197,undefined possible consequences,Any
+199,undefined possible consequences,Any
+200,undefined possible consequences,Any
+205,undefined possible consequences,Any
+207,undefined possible consequences,Any
+208,undefined possible consequences,Any
+210,undefined possible consequences,Any
+216,undefined possible consequences,Any
+222,undefined possible consequences,Any
+225,undefined possible consequences,3rd
+226,undefined possible consequences,Any
+236,undefined possible consequences,Any
+237,undefined possible consequences,Any
+239,undefined possible consequences,Any
+240,undefined possible consequences,Any
+242,undefined possible consequences,Any
+244,undefined possible consequences,Any
+245,undefined possible consequences,Any
+246,undefined possible consequences,Any
+250,undefined possible consequences,Any
+251,undefined possible consequences,Any
+252,undefined possible consequences,Any
+257,undefined possible consequences,Any
+258,undefined possible consequences,Any
+261,undefined possible consequences,Any
+262,undefined possible consequences,Any
+263,undefined possible consequences,Any
+265,undefined possible consequences,Any
+269,undefined possible consequences,Any
+270,undefined possible consequences,Any
+271,undefined possible consequences,Any
+275,undefined possible consequences,Any
+278,undefined possible consequences,Any
+280,undefined possible consequences,Any
+281,undefined possible consequences,Any
+282,undefined possible consequences,Any
+287,undefined possible consequences,Any
+289,undefined possible consequences,Any
+290,undefined possible consequences,Any
+291,undefined possible consequences,Any
+292,undefined possible consequences,Any
+293,undefined possible consequences,Any
+294,undefined possible consequences,Any
+296,undefined possible consequences,Any
+299,undefined possible consequences,Any
+302,undefined possible consequences,2nd
+303,undefined possible consequences,Any
+304,undefined possible consequences,Any
+305,undefined possible consequences,2nd
+307,undefined possible consequences,Any
+308,undefined possible consequences,Any
+310,undefined possible consequences,2nd
+313,undefined possible consequences,2nd
+314,undefined possible consequences,Any
+316,undefined possible consequences,Any
+317,undefined possible consequences,Any
+319,undefined possible consequences,Any
+322,undefined possible consequences,Any
+325,undefined possible consequences,1st
+327,undefined possible consequences,Any
+329,undefined possible consequences,Any
+330,undefined possible consequences,Any
+331,undefined possible consequences,Any
+333,undefined possible consequences,4th
+334,undefined possible consequences,Any
+336,undefined possible consequences,Any
+341,undefined possible consequences,2nd
+343,undefined possible consequences,Any
+344,undefined possible consequences,Any
+479,undefined possible consequences,Any
+478,undefined possible consequences,3rd
+475,undefined possible consequences,Any
+474,undefined possible consequences,Any
+470,undefined possible consequences,Any
+347,undefined possible consequences,Any
+351,undefined possible consequences,Any
+353,undefined possible consequences,3rd
+354,undefined possible consequences,Any
+355,undefined possible consequences,Any
+356,undefined possible consequences,Any
+358,undefined possible consequences,3rd
+360,undefined possible consequences,Any
+363,undefined possible consequences,Any
+366,undefined possible consequences,Any
+367,undefined possible consequences,Any
+374,undefined possible consequences,Any
+375,undefined possible consequences,Any
+376,undefined possible consequences,Any
+378,undefined possible consequences,Any
+379,undefined possible consequences,Any
+382,undefined possible consequences,Any
+389,undefined possible consequences,Any
+394,undefined possible consequences,Any
+398,undefined possible consequences,Any
+400,undefined possible consequences,Any
+401,undefined possible consequences,Any
+403,undefined possible consequences,Any
+404,undefined possible consequences,Any
+464,undefined possible consequences,Any
+462,undefined possible consequences,1st
+462,undefined possible consequences,2nd
+460,undefined possible consequences,Any
+456,undefined possible consequences,Any
+454,undefined possible consequences,Any
+452,undefined possible consequences,Any
+450,undefined possible consequences,Any
+448,undefined possible consequences,Any
+447,undefined possible consequences,Any
+446,undefined possible consequences,Any
+443,undefined possible consequences,Any
+442,undefined possible consequences,Any
+441,undefined possible consequences,Any
+440,undefined possible consequences,Any
+433,undefined possible consequences,Any
+429,undefined possible consequences,Any
+426,undefined possible consequences,Any
+428,undefined possible consequences,Any
+424,undefined possible consequences,Any
+423,undefined possible consequences,Any
+421,undefined possible consequences,Any
+420,undefined possible consequences,Any
+418,undefined possible consequences,Any
+416,undefined possible consequences,Any
+410,undefined possible consequences,Any
+1,wear school provided clothes,Any
+15,wear school provided clothes,Any
+22,wear school provided clothes,1st
+24,wear school provided clothes,1st
+24,wear school provided clothes,2nd
+24,wear school provided clothes,3rd
+30,wear school provided clothes,1st
+36,wear school provided clothes,1st
+36,wear school provided clothes,2nd
+36,wear school provided clothes,3rd
+36,wear school provided clothes,4th
+54,wear school provided clothes,Any
+59,wear school provided clothes,Any
+61,wear school provided clothes,Any
+66,wear school provided clothes,Any
+68,wear school provided clothes,Any
+77,wear school provided clothes,Any
+96,wear school provided clothes,Any
+97,wear school provided clothes,1st
+97,wear school provided clothes,2nd
+101,wear school provided clothes,Any
+121,wear school provided clothes,Any
+140,wear school provided clothes,Any
+143,wear school provided clothes,1st
+154,wear school provided clothes,Any
+156,wear school provided clothes,Any
+172,wear school provided clothes,Any
+173,wear school provided clothes,1st
+186,wear school provided clothes,Any
+188,wear school provided clothes,Any
+202,wear school provided clothes,Any
+213,wear school provided clothes,Any
+224,wear school provided clothes,1st
+239,wear school provided clothes,Any
+243,wear school provided clothes,Any
+248,wear school provided clothes,Any
+279,wear school provided clothes,Any
+282,wear school provided clothes,1st
+282,wear school provided clothes,2nd
+285,wear school provided clothes,Any
+288,wear school provided clothes,Any
+293,wear school provided clothes,Any
+301,wear school provided clothes,Any
+310,wear school provided clothes,1st
+316,wear school provided clothes,Any
+332,wear school provided clothes,Any
+333,wear school provided clothes,1st
+333,wear school provided clothes,2nd
+335,wear school provided clothes,Any
+336,wear school provided clothes,Any
+475,wear school provided clothes,Any
+473,wear school provided clothes,Any
+472,wear school provided clothes,Any
+348,wear school provided clothes,Any
+349,wear school provided clothes,Any
+350,wear school provided clothes,Any
+349,wear school provided clothes,Any
+359,wear school provided clothes,1st
+359,wear school provided clothes,2nd
+359,wear school provided clothes,3rd
+364,wear school provided clothes,Any
+390,wear school provided clothes,Any
+401,wear school provided clothes,Any
+460,wear school provided clothes,1st
+460,wear school provided clothes,2nd
+460,wear school provided clothes,3rd
+459,wear school provided clothes,Any
+458,wear school provided clothes,Any
+456,wear school provided clothes,Any
+438,wear school provided clothes,1st
+438,wear school provided clothes,2nd
+426,wear school provided clothes,Any
+424,wear school provided clothes,Any
+423,wear school provided clothes,Any
+414,wear school provided clothes,Any
+413,wear school provided clothes,1st
+1,removed from extra-curricular activities,Any
+3,students purchase tshirt or gym shorts from office for $5,Any
+4,sent to Student Services,Any
+6,wearing PE clothes,Any
+10,slip to office,1st
+22,notice home to parents,1st
+22,notice home to parents,2nd
+22,meeting with parent,3rd
+23,warning,1st
+25,counseled,Any
+29,referred to principal,Any
+30,confiscated,1st
+30,warning,1st
+32,assigned OCS,Any
+43,remain in administrative area for day,2nd
+43,parent conference,2nd
+48,written report,Any
+57,sent to guidance counselor,Any
+57,parent conference,3rd
+58,sent to the office,Any
+60,kept out of class until dressed within school policy,Any
+65,removal from extracurricular activities,Any
+70,sent to office,Any
+71,removed from class,Any
+76,warning,1st
+76,lunch detention,2nd
+76,full lunch detention,3rd
+81,principal conference,1st
+81,corporal punishment,2nd
+87,behavior management plan,Any
+88,work detail after school,1st
+95,conduct referral,Any
+96,discipline referral,1st
+99,administrative warning,1st
+99,isolation,1st
+99,administrative warning,2nd
+99,isolation,2nd
+100,warning,1st
+113,isolation,Any
+119,warning,1st
+119,alternative school,5th
+120,Level II of the Discipline Code,2nd
+121,Behavior Intervention Services referral,3rd
+121,lunch detention,Any
+127,warning,1st
+130,kept from class,Any
+131,in-school supervision,Any
+136,removed from class,Any
+140,lunch detention,Any
+143,warning,1st
+145,warning,1st
+147,warning,1st
+147,,Any
+148,warning,1st
+148,warning,2nd
+152,asked to leave school grounds,Any
+153,warning,1st
+153,disciplinary referral,2nd
+154,parent teacher meeting,Any
+166,warning,1st
+168,day in Student Support Center,Any
+173,PM Suspension,3rd
+196,spend day in special assignment classroom,Any
+198,office referral,Any
+202,on-line discipline infraction,Any
+203,reasonable attempt at counseling,Any
+205,verbal warning,Any
+225,written warning,1st
+225,remaining in the administrative office,2nd
+225,parent teacher conference,2nd
+228,warning,1st
+228,parent student conference,2nd
+241,referred to administration,Any
+243,"handed a ""Fix-It"" ticket",Any
+243,report to office between classes,Any
+244,administrative referral,Any
+256,office referral,Any
+269,lunch detention,Any
+278,warning,Any
+278,parent conference,Any
+282,parent meeting,2nd
+284,parent meeting,5th
+297,warning,Any
+302,will remain in office or ISS if unable to obtain appropriate clothes ,Any
+310,turn clothing inside out,Any
+316,attend Sunday school,Any
+317,turn shirt inside-out,Any
+478,written warning,1st
+478,remain under administrator responsibility until appropriate clothing can be obtained and worn,2nd
+478,parent teacher conference,2nd
+346,Afternoon School,Any
+346,Behavior Contract,Any
+346,Meet with Assistant Principal.,Any
+354,make modifications,Any
+356,student must made appropriate corrections,Any
+357,warning,Any
+357,After School Work Program,Any
+358,written warning,Any
+358,remain in admin office for day,Any
+358,parent conference,Any
+359,verbal warning,Any
+359,parent conference,Any
+360,modify appearance to be compliant,Any
+362,make modifications,Any
+364,warning,Any
+364,clothing or accessories confiscated,Any
+364,sent home for a change of clothing,Any
+365,alter appearance,Any
+366,confiscated items,Any
+368,sent home for clothes,Any
+383,parent admin meeting,Any
+384,make modifications,Any
+387,Control Room,Any
+387,ASD,Any
+391,cannot return to class until appropriate changes have been made,Any
+392,unexcused absence,Any
+393,warning,Any
+394,make changes,Any
+370,make modifications,Any
+469,parent conference,Any
+468,parent conference,Any
+462,referral to assistant principal,1st
+462,in study hall for the rest of the day,Any
+461,warning, 1st
+461,parent and student sign policy,2nd
+461,parent meeting,Any
+460,citation signed by parents,Any
+451,students stay in office until appropriate clothes provided,Any
+445,sent to office,1st
+445,parent conference,3rd
+442,referred to principal,Any
+435,confiscated items,Any

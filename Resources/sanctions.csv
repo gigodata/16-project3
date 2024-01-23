@@ -1,0 +1,1471 @@
+index,schoolName,state,sanction,offense
+0,JULIAN HIGH,CA,attend Saturday school,3rd
+1,CARROLLTON HIGH SCHOOL,GA,attend Saturday school,2nd
+2,RANCHO BUENA VISTA HIGH,CA,attend Saturday school,2nd
+3,SHADOW HILLS HIGH,CA,attend Saturday school,3rd
+4,ATASCADERO HIGH,CA,attend Saturday school,Any
+5,RUSSELL HIGH,KS,attend Saturday school,3rd
+6,ALISO NIGUEL HIGH,CA,attend Saturday school,4th
+7,QUARTZ HILL HIGH,CA,attend Saturday school,3rd
+8,MARION L STEELE HIGH SCHOOL,OH,attend Saturday school,Any
+9,NORTHWEST CABARRUS HIGH,NC,attend Saturday school,4th
+10,MARLIN H S,TX,attend Saturday school,Any
+11,SEQUOYAH HS,OK,attend Saturday school,1st
+12,SEQUOYAH HS,OK,attend Saturday school,3rd
+13,HAMILTON HIGH SCHOOL,AZ,campus community service,Any
+14,HICKSVILLE HIGH SCHOOL,NY,change clothes,Any
+15,PRIOR LAKE HIGH SCHOOL,MN,change clothes,Any
+16,LA FERIA H S,TX,change clothes,Any
+17,OAKDALE HIGH,MD,change clothes,Any
+18,BARNES COUNTY NORTH HIGH SCHOOL,ND,change clothes,Any
+19,FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,change clothes,Any
+20,MOHONASEN SENIOR HIGH SCHOOL,NY,change clothes,Any
+21,DODGEVILLE HIGH,WI,change clothes,Any
+22,TEAGUE H S,TX,change clothes,Any
+23,RAVENA-COEYMANS-SELKIRK SENIOR HIGH SCHOOL,NY,change clothes,Any
+24,NORTHGLENN HIGH SCHOOL,CO,change clothes,1st
+25,ANAMOSA HIGH SCHOOL,IA,change clothes,1st
+26,ANAMOSA HIGH SCHOOL,IA,change clothes,2nd
+27,ANAMOSA HIGH SCHOOL,IA,change clothes,3rd
+28,ANAMOSA HIGH SCHOOL,IA,change clothes,4th
+29,RIO RANCHO HIGH,NM,change clothes,1st
+30,RIO RANCHO HIGH,NM,change clothes,2nd
+31,RIO RANCHO HIGH,NM,change clothes,3rd
+32,CARMEL HIGH SCHOOL,NY,change clothes,Any
+33,BREMOND H S,TX,change clothes,1st
+34,ROBERTSDALE HIGH SCH,AL,change clothes,Any
+35,LATHROP HIGH SCHOOL,AK,change clothes,1st
+36,BEGGS HS,OK,change clothes,1st
+37,BEGGS HS,OK,change clothes,2nd
+38,BEGGS HS,OK,change clothes,3rd
+39,BEGGS HS,OK,change clothes,4th
+40,BELTON H S,TX,change clothes,1st
+41,MILTON HIGH,WI,change clothes,Any
+42,SOUTHERN COLUMBIA HS,PA,change clothes,1st
+43,SOUTHERN COLUMBIA HS,PA,change clothes,2nd
+44,ELSBERRY HIGH,MO,change clothes,Any
+45,PORT JERVIS SENIOR HIGH SCHOOL,NY,change clothes,Any
+46,LONGMONT HIGH SCHOOL,CO,change clothes,1st
+47,ELKO HIGH SCHOOL,NV,change clothes,1st
+48,ELKO HIGH SCHOOL,NV,change clothes,2nd
+49,ELKO HIGH SCHOOL,NV,change clothes,3rd
+50,IRONTON HIGH SCHOOL,OH,change clothes,Any
+51,SOUTH JEFFERSON HIGH SCHOOL,NY,change clothes,Any
+52,SIMSBURY HIGH SCHOOL,CT,change clothes,Any
+53,NORTHBRIDGE HIGH,MA,change clothes,Any
+54,DEPEW HIGH SCHOOL,NY,change clothes,Any
+55,LOUISIANA HIGH,MO,change clothes,Any
+56,BUTLER HIGH SCHOOL,OH,change clothes,Any
+57,GATEWAY HIGH SCHOOL,CO,change clothes,Any
+58,PINE BUSH SENIOR HIGH SCHOOL,NY,change clothes,Any
+59,COE-BROWN NORTHWOOD ACADEMY,NH,change clothes,1st
+60,COE-BROWN NORTHWOOD ACADEMY,NH,change clothes,2nd
+61,COE-BROWN NORTHWOOD ACADEMY,NH,change clothes,3rd
+62,HUNTLEY PROJECT HIGH SCHL,MT,change clothes,Any
+63,FRUITVALE H S,TX,change clothes,Any
+64,DARLINGTON HIGH,WI,change clothes,Any
+65,MOUNDS HS,OK,change clothes,Any
+66,OAK GROVE HIGH,MO,change clothes,Any
+67,MCLOUTH HIGH,KS,change clothes,Any
+68,TATUM H S,TX,change clothes,Any
+69,CEDAR CITY HIGH,UT,change clothes,Any
+70,HANOVER HIGH,KS,change clothes,Any
+71,NEW LONDON HIGH,WI,change clothes,Any
+72,LAWSON HIGH,MO,change clothes,Any
+73,AKRON WESTFIELD SENIOR HIGH SCHOOL,IA,change clothes,Any
+74,CHILLICOTHE HIGH,MO,change clothes,Any
+75,FLOYD HIGH,NM,change clothes,Any
+76,BERRYVILLE HIGH SCHOOL,AR,change clothes,1st
+77,EAST LAURENS HIGH SCHOOL,GA,change clothes,Any
+78,TURNERS FALL HIGH,MA,change clothes,Any
+79,HENRIETTA H S,TX,change clothes,Any
+80,NORTH ANDREW HIGH,MO,change clothes,Any
+81,HORN H S,TX,change clothes,Any
+82,WEATHERFORD H S,TX,change clothes,Any
+83,AMITY REGIONAL HIGH SCHOOL,CT,change clothes,Any
+84,CORNWALL CENTRAL HIGH SCHOOL,NY,change clothes,Any
+85,CENTRAL HIGH SCHOOL,IA,change clothes,Any
+86,RANCHO BUENA VISTA HIGH,CA,change clothes,Any
+87,FREEPORT AREA SHS,PA,change clothes,1st
+88,FREEPORT AREA SHS,PA,change clothes,2nd
+89,LEVERETTS CHAPEL H S,TX,change clothes,Any
+90,WEST STOKES HIGH,NC,change clothes,1st
+91,WEST STOKES HIGH,NC,change clothes,2nd
+92,WEST STOKES HIGH,NC,change clothes,3rd
+93,NANTUCKET HIGH,MA,change clothes,1st
+94,NANTUCKET HIGH,MA,change clothes,2nd
+95,NORTH CARROLL HIGH,MD,change clothes,Any
+96,MIDLAND H S,TX,change clothes,Any
+97,PELLA HIGH SCHOOL,IA,change clothes,Any
+98,MCGREGOR H S,TX,change clothes,Any
+99,CURRITUCK COUNTY HIGH,NC,change clothes,Any
+100,NEVADA HIGH SCHOOL,IA,change clothes,Any
+101,ADM SENIOR HIGH SCHOOL,IA,change clothes,Any
+102,WAUSAUKEE HIGH,WI,change clothes,Any
+103,PLEASANT GROVE H S,TX,change clothes,Any
+104,BASTROP H S,TX,change clothes,Any
+105,TGU-GRANVILLE HIGH SCHOOL,ND,change clothes,Any
+106,MARINETTE HIGH,WI,change clothes,1st
+107,PORTSMOUTH HIGH SCHOOL,NH,change clothes,Any
+108,BORGER H S,TX,change clothes,Any
+109,CABOOL HIGH,MO,change clothes,Any
+110,WELDON VALLEY HIGH SCHOOL,CO,change clothes,Any
+111,SHADOW HILLS HIGH,CA,change clothes,Any
+112,LAINGSBURG HIGH SCHOOL,MI,change clothes,Any
+113,COLUMBIA HIGH SCHOOL,NY,change clothes,Any
+114,TWIN VALLEY HIGH SCHOOL,VT,change clothes,Any
+115,SHAWANO HIGH,WI,change clothes,Any
+116,HALLSVILLE H S,TX,change clothes,Any
+117,LAUREL HIGH SCHOOL,MT,change clothes,1st
+118,LAUREL HIGH SCHOOL,MT,change clothes,2nd
+119,LAUREL HIGH SCHOOL,MT,change clothes,3rd
+120,SCOTIA-GLENVILLE SENIOR HIGH SCHOOL,NY,change clothes,Any
+121,PLYMOUTH-WHITEMARSH SHS,PA,change clothes,Any
+122,JERICHO SENIOR HIGH SCHOOL,NY,change clothes,Any
+123,SALIDA HIGH SCHOOL,CO,change clothes,Any
+124,THOMAS JEFFERSON HIGH SCHOOL,CO,change clothes,Any
+125,SHERIDAN HIGH SCHOOL,WY,change clothes,Any
+126,NELSON COUNTY HIGH,VA,change clothes,Any
+127,HUDSON HIGH,WI,change clothes,Any
+128,MORENCI HIGH SCHOOL,AZ,change clothes,1st
+129,WEST SENECA EAST SENIOR HIGH SCHOOL,NY,change clothes,Any
+130,LANDER VALLEY HIGH SCHOOL,WY,change clothes,1st
+131,LANDER VALLEY HIGH SCHOOL,WY,change clothes,2nd
+132,SKIATOOK HS,OK,change clothes,1st
+133,SKIATOOK HS,OK,change clothes,2nd
+134,NISKAYUNA HIGH SCHOOL,NY,change clothes,Any
+135,EMPORIA HIGH,KS,change clothes,1st
+136,NEWPORT MIDDLE HIGH SCHOOL (HIGH),NH,change clothes,Any
+137,JACKSON HOLE HIGH SCHOOL,WY,change clothes,Any
+138,IRAAN H S,TX,change clothes,Any
+139,LINCOLN SENIOR HIGH SCHOOL,MI,change clothes,Any
+140,BELLPORT SENIOR HIGH SCHOOL,NY,change clothes,Any
+141,PLATTE CANYON HIGH SCHOOL,CO,change clothes,4th
+142,ROSEMONT HIGH,CA,change clothes,4th
+143,SPENCERPORT HIGH SCHOOL,NY,change clothes,Any
+144,PITTSFIELD HIGH SCHOOL,NH,change clothes,Any
+145,WEST ISLIP SENIOR HIGH SCHOOL,NY,change clothes,Any
+146,KENYON-WANAMINGO SENIOR HIGH,MN,change clothes,Any
+147,GRAND LEDGE HIGH SCHOOL,MI,change clothes,Any
+148,DAVID PROUTY HIGH,MA,change clothes,1st
+149,TARKINGTON H S,TX,change clothes,1st
+150,SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,change clothes,Any
+151,LURAY HIGH,VA,change clothes,Any
+152,APPOQUINIMINK HIGH SCHOOL,DE,change clothes,Any
+153,QUANAH H S,TX,change clothes,Any
+154,LYNNVILLE-SULLY HIGH SCHOOL,IA,change clothes,Any
+155,GRANDVIEW SR. HIGH,MO,change clothes,Any
+156,WHITMAN HANSON REGIONAL,MA,change clothes,Any
+157,HARLOWTON HIGH SCHOOL,MT,change clothes,Any
+158,OAK CREEK HIGH,WI,change clothes,Any
+159,MARATHON HIGH,WI,change clothes,Any
+160,BONNEY LAKE HIGH SCHOOL,WA,change clothes,Any
+161,ROGERS H S,TX,change clothes,Any
+162,ATHENS HIGH,WI,change clothes,Any
+163,EXCELSIOR SPRINGS HIGH,MO,change clothes,Any
+164,BYRON NELSON H S,TX,change clothes,Any
+165,CELINA H S,TX,change clothes,Any
+166,QUEEN CITY H S,TX,change clothes,Any
+167,MACON SR. HIGH,MO,change clothes,Any
+168,UNION HIGH SCHOOL,IA,change clothes,Any
+169,SEDRO WOOLLEY SENIOR HIGH SCHOOL,WA,change clothes,Any
+170,ATASCADERO HIGH,CA,change clothes,Any
+171,AGWSR HIGH SCHOOL,IA,change clothes,Any
+172,KEYSTONE HIGH SCHOOL,OH,change clothes,Any
+173,GOSHEN CENTRAL HIGH SCHOOL,NY,change clothes,Any
+174,ALAMO HEIGHTS H S,TX,change clothes,Any
+175,RANCHO VERDE HIGH,CA,change clothes,Any
+176,SOUTH SENIOR HIGH,MN,change clothes,Any
+177,SINTON H S,TX,change clothes,Any
+178,LOMPOC HIGH,CA,change clothes,Any
+179,MIRA MESA HIGH,CA,change clothes,Any
+180,BLUE RIDGE H S,TX,change clothes,Any
+181,KALKASKA HIGH SCHOOL,MI,change clothes,Any
+182,PARK HILL HIGH,MO,change clothes,Any
+183,THUNDER RIDGE HIGH SCHOOL,KS,change clothes,1st
+184,THUNDER RIDGE HIGH SCHOOL,KS,change clothes,3rd
+185,THUNDER RIDGE HIGH SCHOOL,KS,change clothes,4th
+186,PEKIN COMMUNITY HIGH SCHOOL,IA,change clothes,Any
+187,SOROCO HIGH SCHOOL,CO,change clothes,Any
+188,SAN JON HIGH,NM,change clothes,Any
+189,JOSEPH CASE HIGH,MA,change clothes,Any
+190,WHARTON H S,TX,change clothes,Any
+191,LEAVENWORTH SR HIGH,KS,change clothes,Any
+192,ILLINOIS VALLEY HIGH SCHOOL,OR,change clothes,Any
+193,WEST HEMPSTEAD HIGH SCHOOL,NY,change clothes,Any
+194,MONTE VISTA HIGH,CA,change clothes,Any
+195,CENTURY HIGH,MD,change clothes,Any
+196,OLTON H S,TX,change clothes,Any
+197,CEDAR GROVE-BELGIUM HIGH,WI,change clothes,Any
+198,HOMINY HS,OK,change clothes,Any
+199,GLEN ROSE H S,TX,change clothes,Any
+200,MONROE-WOODBURY HIGH SCHOOL,NY,change clothes,Any
+201,LOVELL HIGH SCHOOL,WY,change clothes,Any
+202,KETCHUM HS,OK,change clothes,Any
+203,LEOMINSTER HIGH SCHOOL,MA,change clothes,Any
+204,MADRAS HIGH SCHOOL,OR,change clothes,Any
+205,CHRISTIANSBURG HIGH,VA,change clothes,Any
+206,LEBANON HIGH SCHOOL,OR,change clothes,Any
+207,MILLER PLACE HIGH SCHOOL,NY,change clothes,Any
+208,SPAULDING UHSD #41,VT,change clothes,Any
+209,TIPTON HIGH SCHOOL,IA,change clothes,Any
+210,BIG PINEY HIGH SCHOOL,WY,change clothes,Any
+211,CLEARWATER HIGH,MO,change clothes,Any
+212,CHASE HIGH,KS,change clothes,Any
+213,PLAINWELL HIGH SCHOOL,MI,change clothes,Any
+214,HAMILTON HIGH SCHOOL,AZ,change clothes,Any
+215,BATTLE CREEK-IDA GROVE SENIOR HIGH SCHOOL,IA,change clothes,Any
+216,PALACIOS H S,TX,change clothes,Any
+217,LYONS SENIOR HIGH SCHOOL,NY,change clothes,Any
+218,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,1st
+219,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,2nd
+220,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,3rd
+221,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,4th
+222,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,5th
+223,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,change clothes,Any
+224,BINGHAMTON HIGH SCHOOL,NY,change clothes,Any
+225,GEORGE MASON HIGH,VA,change clothes,Any
+226,OMRO HIGH,WI,change clothes,Any
+227,NASHOBA REGIONAL,MA,change clothes,Any
+228,PIERCE COUNTY HIGH SCHOOL,GA,change clothes,Any
+229,SOUTH ALBANY HIGH SCHOOL,OR,change clothes,Any
+230,CONNALLY HIGH SCHOOL,TX,change clothes,Any
+231,MIDDLE CREEK HIGH,NC,change clothes,Any
+232,MOUNTAIN VIEW HIGH SCHOOL,WY,change clothes,Any
+233,FONTANA A. B. MILLER HIGH,CA,change clothes,Any
+234,TEXAS H S,TX,change clothes,1st
+235,TEXAS H S,TX,change clothes,2nd
+236,TEXAS H S,TX,change clothes,3rd
+237,TEXAS H S,TX,change clothes,4th
+238,TEXAS H S,TX,change clothes,5th
+239,MOORE HS,OK,change clothes,Any
+240,CHANHASSEN HIGH SCHOOL,MN,change clothes,Any
+241,CLEAR BROOK H S,TX,change clothes,Any
+242,SLEEPY HOLLOW HIGH SCHOOL,NY,change clothes,Any
+243,DOUGLAS HIGH SCHOOL,MA,change clothes,1st
+244,EAST HAMPTON HIGH SCHOOL,NY,change clothes,1st
+245,WARRENTON HIGH SCHOOL,OR,change clothes,1st
+246,HILLIARD BRADLEY HIGH SCHOOL,OH,change clothes,Any
+247,APS ONLINE SCHOOL,CO,change clothes,Any
+248,MEDFORD HIGH,MA,change clothes,1st
+249,SENIOR HS,OK,change clothes,1st
+250,ONTEORA HIGH SCHOOL,NY,change clothes,1st
+251,MONROE CITY R-I HIGH,MO,change clothes,1st
+252,TEMPLE H S,TX,change clothes,Any
+253,RIPLEY HIGH SCHOOL,MS,change clothes,Any
+254,HAVERLING SENIOR HIGH SCHOOL,NY,change clothes,Any
+255,ASTORIA SENIOR HIGH SCHOOL,OR,change clothes,Any
+256,HIAWATHA SR HIGH,KS,change clothes,Any
+257,HUNTINGTON HIGH SCHOOL,NY,change clothes,1st
+258,LOMIRA HIGH,WI,change clothes,Any
+259,EAST HAVEN HIGH SCHOOL,CT,change clothes,Any
+260,SARATOGA SPRINGS HIGH SCHOOL,NY,change clothes,Any
+261,KELSO HIGH SCHOOL,WA,change clothes,Any
+262,CHIRENO H S,TX,change clothes,Any
+263,EDISON SENIOR HIGH,MN,change clothes,Any
+264,RUSSELL HIGH,KS,change clothes,1st
+265,RUSSELL HIGH,KS,change clothes,2nd
+266,RUSSELL HIGH,KS,change clothes,3rd
+267,NETTLETON HIGH SCHOOL,MS,change clothes,Any
+268,LAKER HIGH SCHOOL,MI,change clothes,Any
+269,GRAND RAPIDS SENIOR HIGH,Mn,change clothes,Any
+270,PLYMOUTH HIGH,WI,change clothes,1st
+271,BROADVIEW HIGH SCHOOL,MT,change clothes,1st
+272,LODI HIGH,WI,change clothes,1st
+273,OKAY HS,OK,change clothes,Any
+274,WASHTENAW INTERNATIONAL HIGH SCHOOL,MI,change clothes,Any
+275,ASSETS,TX,change clothes,Any
+276,CLEAR CREEK HIGH SCHOOL,CO,change clothes,Any
+277,BURKBURNETT H S,TX,change clothes,Any
+278,EDISON ACADEMY,MA,change clothes,Any
+279,CALIFORNIA HIGH,MO,change clothes,1st
+280,CALIFORNIA HIGH,MO,change clothes,2nd
+281,ALISO NIGUEL HIGH,CA,change clothes,1st
+282,ANDREWS H S,TX,change clothes,Any
+283,BUFFALO HIGH SCHOOL,WY,change clothes,Any
+284,TAFT UNION HIGH,CA,change clothes,Any
+285,FRANKLIN HIGH,MA,change clothes,Any
+286,CALIFORNIA HIGH,MO,change clothes,1st
+287,CALIFORNIA HIGH,MO,change clothes,2nd
+288,RUTLAND SENIOR HIGH SCHOOL,VT,change clothes,Any
+289,SWEETWATER H S,TX,change clothes,1st
+290,WRAY HIGH SCHOOL,CO,change clothes,1st
+291,NORTH DOUGLAS HIGH SCHOOL,OR,change clothes,Any
+292,COLBY SENIOR HIGH,KS,change clothes,Any
+293,SCOTTS VALLEY HIGH,CA,change clothes,Any
+294,AUBURN HIGH,VA,change clothes,Any
+295,HICKORY RIDGE HIGH,NC,change clothes,Any
+296,DEWITT HIGH SCHOOL,AR,change clothes,Any
+297,CONNETQUOT HIGH SCHOOL,NY,change clothes,Any
+298,RONDOUT VALLEY HIGH SCHOOL,NY,change clothes,Any
+299,BONDUEL HIGH,WI,change clothes,Any
+300,FARMINGTON HIGH,NM,change clothes,Any
+301,MOUNT PLEASANT HIGH,NC,change clothes,Any
+302,POTTSTOWN SHS,PA,change clothes,Any
+303,WHEELER HIGH SCHOOL,CT,change clothes,Any
+304,ELKHORN AREA HIGH,WI,change clothes,Any
+305,BOURNE HIGH SCHOOL,MA,change clothes,Any
+306,EASTERN YORK HS,PA,change clothes,Any
+307,WASHINGTON HS,OK,change clothes,Any
+308,NORWOOD HIGH,MA,change clothes,2nd
+309,LAKE REGION UHSD #24,VT,change clothes,Any
+310,NEWBERG SENIOR HIGH SCHOOL,OR,change clothes,Any
+311,NICOLET HIGH,WI,change clothes,Any
+312,HOLLAND PATENT CENTRAL HIGH SCHOOL,NY,change clothes,Any
+313,DICKINSON H S,TX,change clothes,Any
+314,VINTON-SHELLSBURG HIGH SCHOOL,IA,change clothes,Any
+315,QUINCY HIGH SCHOOL,WA,change clothes,Any
+316,POTOSI HIGH,WI,change clothes,Any
+317,BETHEL PARK HS,PA,change clothes,Any
+318,CLINTON HIGH,WI,change clothes,Any
+319,JENKS HS,OK,change clothes,1st
+320,JENKS HS,OK,change clothes,2nd
+321,MOUNTAIN RANGE HIGH SCHOOL,CO,change clothes,1st
+322,PRENTICE HIGH,WI,change clothes,Any
+323,MOUNT UNION AREA SHS,PA,change clothes,1st
+324,MOUNT UNION AREA SHS,PA,change clothes,2nd
+325,MOUNT UNION AREA SHS,PA,change clothes,3rd
+326,JOHN STARK REGIONAL HIGH SCHOOL,NH,change clothes,Any
+327,BROOKFIELD HIGH SCHOOL,CT,change clothes,Any
+328,CRESTON HIGH SCHOOL,IA,change clothes,Any
+329,THORP HIGH,WI,change clothes,Any
+330,NORTH FAYETTE HIGH SCHOOL,IA,change clothes,Any
+331,HORNELL SENIOR HIGH SCHOOL,NY,change clothes,Any
+332,DANIEL HAND HIGH SCHOOL,CT,change clothes,Any
+333,HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,change clothes,Any
+334,FAIRVIEW HS,PA,change clothes,Any
+335,LYNNFIELD HIGH,MA,change clothes,Any
+336,LAPINE SENIOR HIGH SCHOOL,OR,change clothes,1st
+337,LAPINE SENIOR HIGH SCHOOL,OR,change clothes,2nd
+338,ANACORTES HIGH SCHOOL,WA,change clothes,Any
+339,MAHOPAC HIGH SCHOOL,NY,change clothes,Any
+340,NORTHLAND PINES HIGH,WI,change clothes,Any
+341,BRADFORD AREA HS,PA,change clothes,Any
+342,SAUK RAPIDS-RICE SENIOR HIGH,MN,change clothes,Any
+343,CONVAL REGIONAL HIGH SCHOOL,NH,change clothes,Any
+344,HOLCOMB HIGH,KS,change clothes,1st
+345,HOLCOMB HIGH,KS,change clothes,2nd
+346,HOLCOMB HIGH,KS,change clothes,3rd
+347,HOLCOMB HIGH,KS,change clothes,4th
+348,HOLCOMB HIGH,KS,change clothes,5th
+349,MILWAUKIE HIGH SCHOOL,OR,change clothes,Any
+350,WINNECONNE HIGH,WI,change clothes,Any
+351,PINE ISLAND SECONDARY,MN,change clothes,Any
+352,NORTH EUGENE HIGH SCHOOL,OR,change clothes,Any
+353,SIUSLAW HIGH SCHOOL,OR,change clothes,Any
+354,UNIVERSITY CITY HIGH,CA,change clothes,Any
+355,RED HOOK SENIOR HIGH SCHOOL,NY,change clothes,Any
+356,WEST SENECA WEST SENIOR HIGH SCHOOL,NY,change clothes,Any
+357,VAN HORN HIGH,MO,change clothes,1st
+358,VAN HORN HIGH,MO,change clothes,2nd
+359,KNOXVILLE HIGH SCHOOL,IA,change clothes,Any
+360,HICKSVILLE HIGH SCHOOL,NY,cover offending items,Any
+361,FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,cover offending items,Any
+362,ARCADIA HIGH SCHOOL,NY,cover offending items,Any
+363,DEL MAR HIGH,CA,cover offending items,1st
+364,CARMEL HIGH SCHOOL,NY,cover offending items,Any
+365,MILTON HIGH,WI,cover offending items,Any
+366,PORT JERVIS SENIOR HIGH SCHOOL,NY,cover offending items,Any
+367,SOUTH JEFFERSON HIGH SCHOOL,NY,cover offending items,Any
+368,DEPEW HIGH SCHOOL,NY,cover offending items,Any
+369,GATEWAY HIGH SCHOOL,CO,cover offending items,Any
+370,PINE BUSH SENIOR HIGH SCHOOL,NY,cover offending items,Any
+371,FRUITVALE H S,TX,cover offending items,Any
+372,EAST LAURENS HIGH SCHOOL,GA,cover offending items,Any
+373,LEVERETTS CHAPEL H S,TX,cover offending items,Any
+374,NEVADA HIGH SCHOOL,IA,cover offending items,Any
+375,COLUMBIA HIGH SCHOOL,NY,cover offending items,Any
+376,SCOTIA-GLENVILLE SENIOR HIGH SCHOOL,NY,cover offending items,Any
+377,WEST SENECA EAST SENIOR HIGH SCHOOL,NY,cover offending items,Any
+378,NISKAYUNA HIGH SCHOOL,NY,cover offending items,Any
+379,BELLPORT SENIOR HIGH SCHOOL,NY,cover offending items,Any
+380,PLATTE CANYON HIGH SCHOOL,CO,cover offending items,4th
+381,SPENCERPORT HIGH SCHOOL,NY,cover offending items,Any
+382,WEST ISLIP SENIOR HIGH SCHOOL,NY,cover offending items,Any
+383,DAVID PROUTY HIGH,MA,cover offending items,1st
+384,SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,cover offending items,Any
+385,MARATHON HIGH,WI,cover offending items,Any
+386,BONNEY LAKE HIGH SCHOOL,WA,cover offending items,Any
+387,GOSHEN CENTRAL HIGH SCHOOL,NY,cover offending items,Any
+388,ILLINOIS VALLEY HIGH SCHOOL,OR,cover offending items,Any
+389,WEST HEMPSTEAD HIGH SCHOOL,NY,cover offending items,Any
+390,MONROE-WOODBURY HIGH SCHOOL,NY,cover offending items,Any
+391,LOVELL HIGH SCHOOL,WY,cover offending items,Any
+392,MADRAS HIGH SCHOOL,OR,cover offending items,Any
+393,MILLER PLACE HIGH SCHOOL,NY,cover offending items,Any
+394,SPAULDING UHSD #41,VT,cover offending items,Any
+395,LYONS SENIOR HIGH SCHOOL,NY,cover offending items,Any
+396,BINGHAMTON HIGH SCHOOL,NY,cover offending items,Any
+397,NASHOBA REGIONAL,MA,cover offending items,Any
+398,SLEEPY HOLLOW HIGH SCHOOL,NY,cover offending items,Any
+399,EAST HAMPTON HIGH SCHOOL,NY,cover offending items,1st
+400,ONTEORA HIGH SCHOOL,NY,cover offending items,1st
+401,HAVERLING SENIOR HIGH SCHOOL,NY,cover offending items,Any
+402,WHITE RIVER HIGH SCHOOL,WA,cover offending items,Any
+403,HUNTINGTON HIGH SCHOOL,NY,cover offending items,1st
+404,SARATOGA SPRINGS HIGH SCHOOL,NY,cover offending items,Any
+405,LODI HIGH,WI,cover offending items,1st
+406,OKAY HS,OK,cover offending items,Any
+407,CALIFORNIA HIGH,MO,cover offending items,1st
+408,CALIFORNIA HIGH,MO,cover offending items,2nd
+409,AUBURN HIGH,VA,cover offending items,Any
+410,CONNETQUOT HIGH SCHOOL,NY,cover offending items,Any
+411,RONDOUT VALLEY HIGH SCHOOL,NY,cover offending items,Any
+412,ELKHORN AREA HIGH,WI,cover offending items,Any
+413,NICOLET HIGH,WI,cover offending items,Any
+414,HOLLAND PATENT CENTRAL HIGH SCHOOL,NY,cover offending items,Any
+415,DICKINSON H S,TX,cover offending items,Any
+416,JOHN STARK REGIONAL HIGH SCHOOL,NH,cover offending items,Any
+417,LAPINE SENIOR HIGH SCHOOL,OR,cover offending items,1st
+418,LAPINE SENIOR HIGH SCHOOL,OR,cover offending items,2nd
+419,ANACORTES HIGH SCHOOL,WA,cover offending items,Any
+420,MAHOPAC HIGH SCHOOL,NY,cover offending items,Any
+421,RED HOOK SENIOR HIGH SCHOOL,NY,cover offending items,Any
+422,WEST SENECA WEST SENIOR HIGH SCHOOL,NY,cover offending items,Any
+423,MOHONASEN SENIOR HIGH SCHOOL,NY,detention,Any
+424,ANAMOSA HIGH SCHOOL,IA,detention,2nd
+425,RIO RANCHO HIGH,NM,detention,2nd
+426,BROOKFIELD HIGH,MO,detention,1st
+427,BROOKFIELD HIGH,MO,detention,2nd
+428,JULIAN HIGH,CA,detention,2nd
+429,SOUTHERN COLUMBIA HS,PA,detention,2nd
+430,COE-BROWN NORTHWOOD ACADEMY,NH,detention,2nd
+431,COE-BROWN NORTHWOOD ACADEMY,NH,detention,3rd
+432,HUNTLEY PROJECT HIGH SCHL,MT,detention,Any
+433,RAINIER SENIOR HIGH SCHOOL,WA,detention,1st
+434,NANTUCKET HIGH,MA,detention,2nd
+435,ADM SENIOR HIGH SCHOOL,IA,detention,Any
+436,SYMMES VALLEY HIGH SCHOOL,OH,detention,2nd
+437,SYMMES VALLEY HIGH SCHOOL,OH,detention,3rd
+438,SYMMES VALLEY HIGH SCHOOL,OH,detention,4th
+439,LAUREL HIGH SCHOOL,MT,detention,2nd
+440,LANDER VALLEY HIGH SCHOOL,WY,detention,2nd
+441,ROSEMONT HIGH,CA,detention,4th
+442,PIEDMONT HS,OK,detention,2nd
+443,PITTSFIELD HIGH SCHOOL,NH,detention,Any
+444,DAVID PROUTY HIGH,MA,detention,2nd
+445,WHITMAN HANSON REGIONAL,MA,detention,Any
+446,ATHENS HIGH,WI,detention,Any
+447,ATASCADERO HIGH,CA,detention,Any
+448,KEYSTONE HIGH SCHOOL,OH,detention,Any
+449,SINTON H S,TX,detention,Any
+450,CLEARWATER HIGH,MO,detention,Any
+451,HAMILTON HIGH SCHOOL,AZ,detention,Any
+452,PENTUCKET REGIONAL SR HIGH,MA,detention,2nd
+453,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,detention,3rd
+454,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,detention,4th
+455,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,detention,5th
+456,OMRO HIGH,WI,detention,Any
+457,NASHOBA REGIONAL,MA,detention,Any
+458,SENIOR HS,OK,detention,2nd
+459,SENIOR HS,OK,detention,3rd
+460,RUSSELL HIGH,KS,detention,2nd
+461,GRAND RAPIDS SENIOR HIGH,Mn,detention,Any
+462,RAMON C. CORTINES SCHOOL OF VISUAL AND PERFORMING ARTS,CA,detention,Any
+463,CALIFORNIA HIGH,MO,detention,1st
+464,CALIFORNIA HIGH,MO,detention,2nd
+465,CALIFORNIA HIGH,MO,detention,2nd
+466,MARION L STEELE HIGH SCHOOL,OH,detention,Any
+467,WHEELER HIGH SCHOOL,CT,detention,2nd
+468,WHEELER HIGH SCHOOL,CT,detention,3rd
+469,NORWOOD HIGH,MA,detention,2nd
+470,POTOSI HIGH,WI,detention,Any
+471,JENKS HS,OK,detention,2nd
+472,CHARLESTON HIGH,MO,detention,2nd
+473,MOUNT UNION AREA SHS,PA,detention,2nd
+474,MOUNT UNION AREA SHS,PA,detention,3rd
+475,THORP HIGH,WI,detention,Any
+476,HOLCOMB HIGH,KS,detention,2nd
+477,HOLCOMB HIGH,KS,detention,3rd
+478,HICKSVILLE HIGH SCHOOL,NY,in school suspension  ISS,Any
+479,RUSK H S,TX,in school suspension  ISS,Any
+480,LA FERIA H S,TX,in school suspension  ISS,Any
+481,BARNES COUNTY NORTH HIGH SCHOOL,ND,in school suspension  ISS,Any
+482,TEAGUE H S,TX,in school suspension  ISS,Any
+483,ARCADIA HIGH SCHOOL,NY,in school suspension  ISS,Any
+484,RAVENA-COEYMANS-SELKIRK SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+485,ANAMOSA HIGH SCHOOL,IA,in school suspension  ISS,3rd
+486,RIO RANCHO HIGH,NM,in school suspension  ISS,3rd
+487,BROOKFIELD HIGH,MO,in school suspension  ISS,1st
+488,BROOKFIELD HIGH,MO,in school suspension  ISS,2nd
+489,BROOKFIELD HIGH,MO,in school suspension  ISS,3rd
+490,BROOKFIELD HIGH,MO,in school suspension  ISS,4th
+491,BEGGS HS,OK,in school suspension  ISS,3rd
+492,BEGGS HS,OK,in school suspension  ISS,4th
+493,BELTON H S,TX,in school suspension  ISS,1st
+494,MILTON HIGH,WI,in school suspension  ISS,Any
+495,SOUTHERN COLUMBIA HS,PA,in school suspension  ISS,1st
+496,SOUTHERN COLUMBIA HS,PA,in school suspension  ISS,2nd
+497,PORT JERVIS SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+498,ELKO HIGH SCHOOL,NV,in school suspension  ISS,2nd
+499,DEPEW HIGH SCHOOL,NY,in school suspension  ISS,Any
+500,PINE BUSH SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+501,FRUITVALE H S,TX,in school suspension  ISS,Any
+502,TATUM H S,TX,in school suspension  ISS,Any
+503,ELGIN HS,OK,in school suspension  ISS,4th
+504,BERRYVILLE HIGH SCHOOL,AR,in school suspension  ISS,2nd
+505,BERRYVILLE HIGH SCHOOL,AR,in school suspension  ISS,3rd
+506,EAST LAURENS HIGH SCHOOL,GA,in school suspension  ISS,2nd
+507,HENRIETTA H S,TX,in school suspension  ISS,Any
+508,CARROLLTON HIGH SCHOOL,GA,in school suspension  ISS,3rd
+509,HORN H S,TX,in school suspension  ISS,Any
+510,BANKS COUNTY HIGH SCHOOL,GA,in school suspension  ISS,Any
+511,FREEPORT AREA SHS,PA,in school suspension  ISS,3rd
+512,LEVERETTS CHAPEL H S,TX,in school suspension  ISS,Any
+513,WEST STOKES HIGH,NC,in school suspension  ISS,3rd
+514,MIDLAND H S,TX,in school suspension  ISS,Any
+515,PLEASANT GROVE H S,TX,in school suspension  ISS,Any
+516,BASTROP H S,TX,in school suspension  ISS,Any
+517,BORGER H S,TX,in school suspension  ISS,Any
+518,COLUMBIA HIGH SCHOOL,NY,in school suspension  ISS,Any
+519,HALLSVILLE H S,TX,in school suspension  ISS,Any
+520,LAUREL HIGH SCHOOL,MT,in school suspension  ISS,2nd
+521,LAUREL HIGH SCHOOL,MT,in school suspension  ISS,3rd
+522,NELSON COUNTY HIGH,VA,in school suspension  ISS,Any
+523,MORENCI HIGH SCHOOL,AZ,in school suspension  ISS,1st
+524,MORENCI HIGH SCHOOL,AZ,in school suspension  ISS,2nd
+525,WEST SENECA EAST SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+526,LANDER VALLEY HIGH SCHOOL,WY,in school suspension  ISS,3rd
+527,SKIATOOK HS,OK,in school suspension  ISS,Any
+528,IRAAN H S,TX,in school suspension  ISS,Any
+529,SPENCERPORT HIGH SCHOOL,NY,in school suspension  ISS,Any
+530,PIEDMONT HS,OK,in school suspension  ISS,3rd
+531,GRAND LEDGE HIGH SCHOOL,MI,in school suspension  ISS,Any
+532,TARKINGTON H S,TX,in school suspension  ISS,Any
+533,SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+534,LURAY HIGH,VA,in school suspension  ISS,Any
+535,QUANAH H S,TX,in school suspension  ISS,Any
+536,GRANDVIEW SR. HIGH,MO,in school suspension  ISS,Any
+537,ROGERS H S,TX,in school suspension  ISS,Any
+538,CELINA H S,TX,in school suspension  ISS,Any
+539,QUEEN CITY H S,TX,in school suspension  ISS,Any
+540,ATASCADERO HIGH,CA,in school suspension  ISS,Any
+541,GOSHEN CENTRAL HIGH SCHOOL,NY,in school suspension  ISS,Any
+542,ALAMO HEIGHTS H S,TX,in school suspension  ISS,Any
+543,SINTON H S,TX,in school suspension  ISS,Any
+544,INDEPENDENCE HIGH SCHOOL,MS,in school suspension  ISS,1st
+545,INDEPENDENCE HIGH SCHOOL,MS,in school suspension  ISS,2nd
+546,THUNDER RIDGE HIGH SCHOOL,KS,in school suspension  ISS,3rd
+547,THUNDER RIDGE HIGH SCHOOL,KS,in school suspension  ISS,4th
+548,WHARTON H S,TX,in school suspension  ISS,Any
+549,WEST HEMPSTEAD HIGH SCHOOL,NY,in school suspension  ISS,Any
+550,OLTON H S,TX,in school suspension  ISS,Any
+551,CEDAR GROVE-BELGIUM HIGH,WI,in school suspension  ISS,Any
+552,GLEN ROSE H S,TX,in school suspension  ISS,Any
+553,MONROE-WOODBURY HIGH SCHOOL,NY,in school suspension  ISS,Any
+554,PERRY CENTRAL HIGH SCHOOL,MS,in school suspension  ISS,Any
+555,LEHIGH SENIOR HIGH SCHOOL,FL,in school suspension  ISS,Any
+556,CLEARWATER HIGH,MO,in school suspension  ISS,Any
+557,ALVARADO H S,TX,in school suspension  ISS,Any
+558,PLAINWELL HIGH SCHOOL,MI,in school suspension  ISS,Any
+559,CIMARRON HS,OK,in school suspension  ISS,Any
+560,HAMILTON HIGH SCHOOL,AZ,in school suspension  ISS,Any
+561,PALACIOS H S,TX,in school suspension  ISS,Any
+562,LYONS SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+563,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,in school suspension  ISS,5th
+564,TEXAS H S,TX,in school suspension  ISS,3rd
+565,TEXAS H S,TX,in school suspension  ISS,4th
+566,TEXAS H S,TX,in school suspension  ISS,5th
+567,ONTEORA HIGH SCHOOL,NY,in school suspension  ISS,1st
+568,TEMPLE H S,TX,in school suspension  ISS,Any
+569,WHITE RIVER HIGH SCHOOL,WA,in school suspension  ISS,Any
+570,HUNTINGTON HIGH SCHOOL,NY,in school suspension  ISS,1st
+571,SOCIAL CIRCLE HIGH SCHOOL,GA,in school suspension  ISS,2nd
+572,CHIRENO H S,TX,in school suspension  ISS,Any
+573,NETTLETON HIGH SCHOOL,MS,in school suspension  ISS,Any
+574,SALLISAW HS,OK,in school suspension  ISS,Any
+575,ASHER HS,OK,in school suspension  ISS,Any
+576,ASSETS,TX,in school suspension  ISS,Any
+577,BURKBURNETT H S,TX,in school suspension  ISS,Any
+578,CALIFORNIA HIGH,MO,in school suspension  ISS,1st
+579,CALIFORNIA HIGH,MO,in school suspension  ISS,2nd
+580,CALIFORNIA HIGH,MO,in school suspension  ISS,1st
+581,CALIFORNIA HIGH,MO,in school suspension  ISS,2nd
+582,SWEETWATER H S,TX,in school suspension  ISS,2nd
+583,QUARTZ HILL HIGH,CA,in school suspension  ISS,4th
+584,PONCA CITY HS,OK,in school suspension  ISS,3rd
+585,HILTON HIGH SCHOOL,NY,in school suspension  ISS,Any
+586,CONNETQUOT HIGH SCHOOL,NY,in school suspension  ISS,Any
+587,RONDOUT VALLEY HIGH SCHOOL,NY,in school suspension  ISS,Any
+588,MOUNT PLEASANT HIGH,NC,in school suspension  ISS,Any
+589,NORTHWEST CABARRUS HIGH,NC,in school suspension  ISS,5th
+590,NICOLET HIGH,WI,in school suspension  ISS,Any
+591,HOLLAND PATENT CENTRAL HIGH SCHOOL,NY,in school suspension  ISS,Any
+592,DICKINSON H S,TX,in school suspension  ISS,Any
+593,JENKS HS,OK,in school suspension  ISS,2nd
+594,CHARLESTON HIGH,MO,in school suspension  ISS,3rd
+595,CHARLESTON HIGH,MO,in school suspension  ISS,4th
+596,ANACORTES HIGH SCHOOL,WA,in school suspension  ISS,Any
+597,MAHOPAC HIGH SCHOOL,NY,in school suspension  ISS,Any
+598,SALINA HS,OK,in school suspension  ISS,2nd
+599,HOLCOMB HIGH,KS,in school suspension  ISS,Any
+600,RED HOOK SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+601,WEST SENECA WEST SENIOR HIGH SCHOOL,NY,in school suspension  ISS,Any
+602,LOOKEBA-SICKLES HS,OK,in school suspension  ISS,2nd
+603,MOHONASEN SENIOR HIGH SCHOOL,NY,parents called,Any
+604,ARCADIA HIGH SCHOOL,NY,parents called,Any
+605,NORTHGLENN HIGH SCHOOL,CO,parents called,2nd
+606,RIO RANCHO HIGH,NM,parents called,1st
+607,TACONIC HIGH,MA,parents called,Any
+608,BROOKFIELD HIGH,MO,parents called,1st
+609,BROOKFIELD HIGH,MO,parents called,2nd
+610,BROOKFIELD HIGH,MO,parents called,3rd
+611,BROOKFIELD HIGH,MO,parents called,4th
+612,LATHROP HIGH SCHOOL,AK,parents called,1st
+613,ELKO HIGH SCHOOL,NV,parents called,1st
+614,ELKO HIGH SCHOOL,NV,parents called,2nd
+615,ELKO HIGH SCHOOL,NV,parents called,3rd
+616,SIMSBURY HIGH SCHOOL,CT,parents called,Any
+617,NORTHBRIDGE HIGH,MA,parents called,Any
+618,BUTLER HIGH SCHOOL,OH,parents called,Any
+619,MOUNDS HS,OK,parents called,Any
+620,ELGIN HS,OK,parents called,1st
+621,ELGIN HS,OK,parents called,2nd
+622,ELGIN HS,OK,parents called,3rd
+623,RAINIER SENIOR HIGH SCHOOL,WA,parents called,1st
+624,WEATHERFORD H S,TX,parents called,Any
+625,FREEPORT AREA SHS,PA,parents called,1st
+626,FREEPORT AREA SHS,PA,parents called,2nd
+627,WEST STOKES HIGH,NC,parents called,1st
+628,WEST STOKES HIGH,NC,parents called,2nd
+629,WEST STOKES HIGH,NC,parents called,3rd
+630,NANTUCKET HIGH,MA,parents called,1st
+631,NANTUCKET HIGH,MA,parents called,2nd
+632,BASTROP H S,TX,parents called,Any
+633,TGU-GRANVILLE HIGH SCHOOL,ND,parents called,Any
+634,MARINETTE HIGH,WI,parents called,1st
+635,SYMMES VALLEY HIGH SCHOOL,OH,parents called,3rd
+636,LAINGSBURG HIGH SCHOOL,MI,parents called,Any
+637,DOVER HS,OK,parents called,Any
+638,SCOTIA-GLENVILLE SENIOR HIGH SCHOOL,NY,parents called,Any
+639,PLYMOUTH-WHITEMARSH SHS,PA,parents called,Any
+640,THOMAS JEFFERSON HIGH SCHOOL,CO,parents called,Any
+641,NELSON COUNTY HIGH,VA,parents called,Any
+642,BELLPORT SENIOR HIGH SCHOOL,NY,parents called,Any
+643,PITTSFIELD HIGH SCHOOL,NH,parents called,Any
+644,KENYON-WANAMINGO SENIOR HIGH,MN,parents called,Any
+645,GRAND LEDGE HIGH SCHOOL,MI,parents called,Any
+646,ATASCADERO HIGH,CA,parents called,Any
+647,LOMPOC HIGH,CA,parents called,Any
+648,BLUE RIDGE H S,TX,parents called,Any
+649,WEST GRAND HIGH SCHOOL,CO,parents called,1st
+650,THUNDER RIDGE HIGH SCHOOL,KS,parents called,3rd
+651,TIPTON HIGH SCHOOL,IA,parents called,Any
+652,BIG PINEY HIGH SCHOOL,WY,parents called,Any
+653,PLAINWELL HIGH SCHOOL,MI,parents called,Any
+654,PENTUCKET REGIONAL SR HIGH,MA,parents called,1st
+655,PENTUCKET REGIONAL SR HIGH,MA,parents called,2nd
+656,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,parents called,2nd
+657,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,parents called,3rd
+658,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,parents called,4th
+659,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,parents called,5th
+660,DANVERS HIGH,MA,parents called,Any
+661,BINGHAMTON HIGH SCHOOL,NY,parents called,Any
+662,OMRO HIGH,WI,parents called,Any
+663,NASHOBA REGIONAL,MA,parents called,Any
+664,FONTANA A. B. MILLER HIGH,CA,parents called,Any
+665,TEXAS H S,TX,parents called,1st
+666,TEXAS H S,TX,parents called,2nd
+667,TEXAS H S,TX,parents called,3rd
+668,TEXAS H S,TX,parents called,4th
+669,TEXAS H S,TX,parents called,5th
+670,MEDFORD HIGH,MA,parents called,1st
+671,SENIOR HS,OK,parents called,2nd
+672,SENIOR HS,OK,parents called,3rd
+673,ONTEORA HIGH SCHOOL,NY,parents called,2nd
+674,HAVERLING SENIOR HIGH SCHOOL,NY,parents called,Any
+675,PITTSFIELD HIGH,MA,parents called,Any
+676,SARATOGA SPRINGS HIGH SCHOOL,NY,parents called,Any
+677,RUSSELL HIGH,KS,parents called,1st
+678,RUSSELL HIGH,KS,parents called,2nd
+679,RUSSELL HIGH,KS,parents called,3rd
+680,GRAND RAPIDS SENIOR HIGH,Mn,parents called,Any
+681,PLYMOUTH HIGH,WI,parents called,1st
+682,OKAY HS,OK,parents called,Any
+683,CLEAR CREEK HIGH SCHOOL,CO,parents called,1st
+684,RAMON C. CORTINES SCHOOL OF VISUAL AND PERFORMING ARTS,CA,parents called,Any
+685,ALISO NIGUEL HIGH,CA,parents called,2nd
+686,ALISO NIGUEL HIGH,CA,parents called,3rd
+687,TAFT UNION HIGH,CA,parents called,Any
+688,QUARTZ HILL HIGH,CA,parents called,2nd
+689,QUARTZ HILL HIGH,CA,parents called,3rd
+690,WRAY HIGH SCHOOL,CO,parents called,1st
+691,PONCA CITY HS,OK,parents called,2nd
+692,PONCA CITY HS,OK,parents called,3rd
+693,PONCA CITY HS,OK,parents called,4th
+694,SCOTTS VALLEY HIGH,CA,parents called,Any
+695,AUBURN SENIOR HIGH,MA,parents called,Any
+696,WHEELER HIGH SCHOOL,CT,parents called,Any
+697,NORTHWEST CABARRUS HIGH,NC,parents called,1st
+698,ELKHORN AREA HIGH,WI,parents called,Any
+699,BOURNE HIGH SCHOOL,MA,parents called,Any
+700,EASTERN YORK HS,PA,parents called,Any
+701,CLINTON HIGH,WI,parents called,Any
+702,JENKS HS,OK,parents called,1st
+703,JENKS HS,OK,parents called,2nd
+704,BROOKFIELD HIGH SCHOOL,CT,parents called,Any
+705,HORNELL SENIOR HIGH SCHOOL,NY,parents called,Any
+706,HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,parents called,Any
+707,FAIRVIEW HS,PA,parents called,Any
+708,MAHOPAC HIGH SCHOOL,NY,parents called,Any
+709,NORTHLAND PINES HIGH,WI,parents called,Any
+710,BRADFORD AREA HS,PA,parents called,Any
+711,SALINA HS,OK,parents called,1st
+712,PINE ISLAND SECONDARY,MN,parents called,Any
+713,HUDSON'S BAY HIGH SCHOOL,WA,parents called,Any
+714,VAN HORN HIGH,MO,parents called,2nd
+715,LOOKEBA-SICKLES HS,OK,parents called,2nd
+716,EAST HIGH,UT,parents must bring a change of clothes,Any
+717,LA FERIA H S,TX,parents must bring a change of clothes,Any
+718,BARNES COUNTY NORTH HIGH SCHOOL,ND,parents must bring a change of clothes,Any
+719,DODGEVILLE HIGH,WI,parents must bring a change of clothes,Any
+720,TEAGUE H S,TX,parents must bring a change of clothes,Any
+721,ARCADIA HIGH SCHOOL,NY,parents must bring a change of clothes,Any
+722,ROBERTSDALE HIGH SCH,AL,parents must bring a change of clothes,Any
+723,SAVAGE HIGH SCHOOL,MT,parents must bring a change of clothes,1st
+724,SOUTHERN COLUMBIA HS,PA,parents must bring a change of clothes,1st
+725,SOUTHERN COLUMBIA HS,PA,parents must bring a change of clothes,2nd
+726,IRONTON HIGH SCHOOL,OH,parents must bring a change of clothes,Any
+727,SIMSBURY HIGH SCHOOL,CT,parents must bring a change of clothes,Any
+728,BARBERS HILL H S,TX,parents must bring a change of clothes,Any
+729,LOUISIANA HIGH,MO,parents must bring a change of clothes,Any
+730,COE-BROWN NORTHWOOD ACADEMY,NH,parents must bring a change of clothes,1st
+731,COE-BROWN NORTHWOOD ACADEMY,NH,parents must bring a change of clothes,2nd
+732,COE-BROWN NORTHWOOD ACADEMY,NH,parents must bring a change of clothes,3rd
+733,ELEANOR ROOSEVELT HIGH SCHOOL,NY,parents must bring a change of clothes,Any
+734,GIRARD HS,PA,parents must bring a change of clothes,Any
+735,FRUITVALE H S,TX,parents must bring a change of clothes,Any
+736,MOUNDS HS,OK,parents must bring a change of clothes,Any
+737,HOWE HS,OK,parents must bring a change of clothes,Any
+738,MCLOUTH HIGH,KS,parents must bring a change of clothes,Any
+739,TATUM H S,TX,parents must bring a change of clothes,Any
+740,HANOVER HIGH,KS,parents must bring a change of clothes,Any
+741,EAST LAURENS HIGH SCHOOL,GA,parents must bring a change of clothes,1st
+742,HENRIETTA H S,TX,parents must bring a change of clothes,Any
+743,HORN H S,TX,parents must bring a change of clothes,Any
+744,RANCHO BUENA VISTA HIGH,CA,parents must bring a change of clothes,Any
+745,LEVERETTS CHAPEL H S,TX,parents must bring a change of clothes,Any
+746,WEST STOKES HIGH,NC,parents must bring a change of clothes,1st
+747,WEST STOKES HIGH,NC,parents must bring a change of clothes,2nd
+748,WEST STOKES HIGH,NC,parents must bring a change of clothes,3rd
+749,MIDLAND H S,TX,parents must bring a change of clothes,Any
+750,PLEASANT GROVE H S,TX,parents must bring a change of clothes,Any
+751,BASTROP H S,TX,parents must bring a change of clothes,Any
+752,PORTSMOUTH HIGH SCHOOL,NH,parents must bring a change of clothes,Any
+753,BORGER H S,TX,parents must bring a change of clothes,Any
+754,SHADOW HILLS HIGH,CA,parents must bring a change of clothes,Any
+755,TWIN VALLEY HIGH SCHOOL,VT,parents must bring a change of clothes,Any
+756,HALLSVILLE H S,TX,parents must bring a change of clothes,Any
+757,DOVER HS,OK,parents must bring a change of clothes,Any
+758,SALIDA HIGH SCHOOL,CO,parents must bring a change of clothes,Any
+759,NELSON COUNTY HIGH,VA,parents must bring a change of clothes,Any
+760,MORENCI HIGH SCHOOL,AZ,parents must bring a change of clothes,1st
+761,IRAAN H S,TX,parents must bring a change of clothes,Any
+762,BELLPORT SENIOR HIGH SCHOOL,NY,parents must bring a change of clothes,Any
+763,PLATTE CANYON HIGH SCHOOL,CO,parents must bring a change of clothes,4th
+764,PITTSFIELD HIGH SCHOOL,NH,parents must bring a change of clothes,Any
+765,DAVID PROUTY HIGH,MA,parents must bring a change of clothes,2nd
+766,TARKINGTON H S,TX,parents must bring a change of clothes,Any
+767,QUANAH H S,TX,parents must bring a change of clothes,Any
+768,ROGERS H S,TX,parents must bring a change of clothes,Any
+769,CELINA H S,TX,parents must bring a change of clothes,Any
+770,QUEEN CITY H S,TX,parents must bring a change of clothes,Any
+771,ONTARIO HIGH SCHOOL,OR,parents must bring a change of clothes,Any
+772,ALAMO HEIGHTS H S,TX,parents must bring a change of clothes,Any
+773,INDEPENDENCE HIGH SCHOOL,MS,parents must bring a change of clothes,1st
+774,KALKASKA HIGH SCHOOL,MI,parents must bring a change of clothes,Any
+775,LA JOLLA HIGH,CA,parents must bring a change of clothes,2nd
+776,WHARTON H S,TX,parents must bring a change of clothes,Any
+777,ILLINOIS VALLEY HIGH SCHOOL,OR,parents must bring a change of clothes,Any
+778,OLTON H S,TX,parents must bring a change of clothes,Any
+779,CEDAR GROVE-BELGIUM HIGH,WI,parents must bring a change of clothes,Any
+780,GLEN ROSE H S,TX,parents must bring a change of clothes,Any
+781,HILLDALE HS,OK,parents must bring a change of clothes,Any
+782,ALVARADO H S,TX,parents must bring a change of clothes,Any
+783,CIMARRON HS,OK,parents must bring a change of clothes,Any
+784,PENTUCKET REGIONAL SR HIGH,MA,parents must bring a change of clothes,1st
+785,PENTUCKET REGIONAL SR HIGH,MA,parents must bring a change of clothes,2nd
+786,OMRO HIGH,WI,parents must bring a change of clothes,Any
+787,SLEEPY HOLLOW HIGH SCHOOL,NY,parents must bring a change of clothes,Any
+788,DOUGLAS HIGH SCHOOL,MA,parents must bring a change of clothes,1st
+789,ONTEORA HIGH SCHOOL,NY,parents must bring a change of clothes,1st
+790,MONROE CITY R-I HIGH,MO,parents must bring a change of clothes,1st
+791,TEMPLE H S,TX,parents must bring a change of clothes,Any
+792,HAVERLING SENIOR HIGH SCHOOL,NY,parents must bring a change of clothes,Any
+793,WHITE RIVER HIGH SCHOOL,WA,parents must bring a change of clothes,Any
+794,CHIRENO H S,TX,parents must bring a change of clothes,Any
+795,EDISON SENIOR HIGH,MN,parents must bring a change of clothes,Any
+796,RUSSELL HIGH,KS,parents must bring a change of clothes,1st
+797,RUSSELL HIGH,KS,parents must bring a change of clothes,2nd
+798,RUSSELL HIGH,KS,parents must bring a change of clothes,3rd
+799,SALLISAW HS,OK,parents must bring a change of clothes,Any
+800,ASSETS,TX,parents must bring a change of clothes,Any
+801,BURKBURNETT H S,TX,parents must bring a change of clothes,Any
+802,EDISON ACADEMY,MA,parents must bring a change of clothes,Any
+803,SWEETWATER H S,TX,parents must bring a change of clothes,2nd
+804,WRAY HIGH SCHOOL,CO,parents must bring a change of clothes,1st
+805,HICKORY RIDGE HIGH,NC,parents must bring a change of clothes,Any
+806,BOURNE HIGH SCHOOL,MA,parents must bring a change of clothes,Any
+807,EASTERN YORK HS,PA,parents must bring a change of clothes,Any
+808,LAKE REGION UHSD #24,VT,parents must bring a change of clothes,Any
+809,NICOLET HIGH,WI,parents must bring a change of clothes,Any
+810,DICKINSON H S,TX,parents must bring a change of clothes,Any
+811,CHARLESTON HIGH,MO,parents must bring a change of clothes,1st
+812,CHARLESTON HIGH,MO,parents must bring a change of clothes,2nd
+813,CHARLESTON HIGH,MO,parents must bring a change of clothes,3rd
+814,MOUNT UNION AREA SHS,PA,parents must bring a change of clothes,Any
+815,THORP HIGH,WI,parents must bring a change of clothes,Any
+816,HOLCOMB HIGH,KS,parents must bring a change of clothes,Any
+817,MILWAUKIE HIGH SCHOOL,OR,parents must bring a change of clothes,Any
+818,WINNECONNE HIGH,WI,parents must bring a change of clothes,Any
+819,UNIVERSITY CITY HIGH,CA,parents must bring a change of clothes,Any
+820,PRIOR LAKE HIGH SCHOOL,MN,sent home for the day,Any
+821,OOLOGAH-TALALA HS,OK,sent home for the day,Any
+822,GLASGOW HIGH SCHOOL,MT,sent home for the day,2nd
+823,OAKDALE HIGH,MD,sent home for the day,Any
+824,DEL MAR HIGH,CA,sent home for the day,2nd
+825,RIO RANCHO HIGH,NM,sent home for the day,1st
+826,RIO RANCHO HIGH,NM,sent home for the day,2nd
+827,RIO RANCHO HIGH,NM,sent home for the day,3rd
+828,ROBERTSDALE HIGH SCH,AL,sent home for the day,Any
+829,SAVAGE HIGH SCHOOL,MT,sent home for the day,1st
+830,MILTON HIGH,WI,sent home for the day,Any
+831,ELSBERRY HIGH,MO,sent home for the day,Any
+832,PORT JERVIS SENIOR HIGH SCHOOL,NY,sent home for the day,Any
+833,LONGMONT HIGH SCHOOL,CO,sent home for the day,1st
+834,IRONTON HIGH SCHOOL,OH,sent home for the day,Any
+835,NORTHBRIDGE HIGH,MA,sent home for the day,Any
+836,BARBERS HILL H S,TX,sent home for the day,Any
+837,LOUISIANA HIGH,MO,sent home for the day,Any
+838,BUTLER HIGH SCHOOL,OH,sent home for the day,Any
+839,GATEWAY HIGH SCHOOL,CO,sent home for the day,Any
+840,COE-BROWN NORTHWOOD ACADEMY,NH,sent home for the day,3rd
+841,DAWSON HIGH SCHOOL,MT,sent home for the day,Any
+842,GIRARD HS,PA,sent home for the day,Any
+843,DARLINGTON HIGH,WI,sent home for the day,Any
+844,OAK GROVE HIGH,MO,sent home for the day,Any
+845,FLOYD HIGH,NM,sent home for the day,Any
+846,NORTH ANDREW HIGH,MO,sent home for the day,Any
+847,WEATHERFORD H S,TX,sent home for the day,Any
+848,AMITY REGIONAL HIGH SCHOOL,CT,sent home for the day,Any
+849,CENTRAL HIGH SCHOOL,IA,sent home for the day,Any
+850,QUINCY HIGH,MA,sent home for the day,Any
+851,NEVADA HIGH SCHOOL,IA,sent home for the day,Any
+852,ADM SENIOR HIGH SCHOOL,IA,sent home for the day,Any
+853,CABOOL HIGH,MO,sent home for the day,Any
+854,SHADOW HILLS HIGH,CA,sent home for the day,Any
+855,LAINGSBURG HIGH SCHOOL,MI,sent home for the day,Any
+856,DOVER HS,OK,sent home for the day,Any
+857,SCOTIA-GLENVILLE SENIOR HIGH SCHOOL,NY,sent home for the day,Any
+858,POWDER RIVER CO DIST HIGH,MT,sent home for the day,Any
+859,PLYMOUTH-WHITEMARSH SHS,PA,sent home for the day,Any
+860,SALIDA HIGH SCHOOL,CO,sent home for the day,Any
+861,THOMAS JEFFERSON HIGH SCHOOL,CO,sent home for the day,Any
+862,SHERIDAN HIGH SCHOOL,WY,sent home for the day,Any
+863,NELSON COUNTY HIGH,VA,sent home for the day,Any
+864,WESTON RANCH HIGH,CA,sent home for the day,Any
+865,SKIATOOK HS,OK,sent home for the day,Any
+866,JACKSON HOLE HIGH SCHOOL,WY,sent home for the day,Any
+867,ROSEMONT HIGH,CA,sent home for the day,4th
+868,GRAND LEDGE HIGH SCHOOL,MI,sent home for the day,Any
+869,DAVID PROUTY HIGH,MA,sent home for the day,2nd
+870,DAVID PROUTY HIGH,MA,sent home for the day,3rd
+871,HARLOWTON HIGH SCHOOL,MT,sent home for the day,Any
+872,MARATHON HIGH,WI,sent home for the day,Any
+873,BONNEY LAKE HIGH SCHOOL,WA,sent home for the day,Any
+874,BYRON NELSON H S,TX,sent home for the day,Any
+875,ATASCADERO HIGH,CA,sent home for the day,Any
+876,PEKIN COMMUNITY HIGH SCHOOL,IA,sent home for the day,Any
+877,SAN JON HIGH,NM,sent home for the day,Any
+878,LOVELL HIGH SCHOOL,WY,sent home for the day,Any
+879,PERRY CENTRAL HIGH SCHOOL,MS,sent home for the day,Any
+880,LEBANON HIGH SCHOOL,OR,sent home for the day,Any
+881,SPAULDING UHSD #41,VT,sent home for the day,Any
+882,BIG PINEY HIGH SCHOOL,WY,sent home for the day,Any
+883,CLEARWATER HIGH,MO,sent home for the day,Any
+884,CHASE HIGH,KS,sent home for the day,Any
+885,CENTRALIA HIGH,MO,sent home for the day,Any
+886,BATTLE CREEK-IDA GROVE SENIOR HIGH SCHOOL,IA,sent home for the day,Any
+887,BINGHAMTON HIGH SCHOOL,NY,sent home for the day,Any
+888,GEORGE MASON HIGH,VA,sent home for the day,Any
+889,OMRO HIGH,WI,sent home for the day,Any
+890,MOUNTAIN VIEW HIGH SCHOOL,WY,sent home for the day,Any
+891,CHANHASSEN HIGH SCHOOL,MN,sent home for the day,Any
+892,SENIOR HS,OK,sent home for the day,1st
+893,RIPLEY HIGH SCHOOL,MS,sent home for the day,Any
+894,LOMIRA HIGH,WI,sent home for the day,Any
+895,KELSO HIGH SCHOOL,WA,sent home for the day,Any
+896,GRAND RAPIDS SENIOR HIGH,Mn,sent home for the day,Any
+897,BROADVIEW HIGH SCHOOL,MT,sent home for the day,1st
+898,LODI HIGH,WI,sent home for the day,2nd
+899,FORSYTH HIGH,MO,sent home for the day,Any
+900,RUTLAND SENIOR HIGH SCHOOL,VT,sent home for the day,Any
+901,RUTLAND SENIOR HIGH SCHOOL,VT,sent home for the day,Any
+902,NORTH DOUGLAS HIGH SCHOOL,OR,sent home for the day,Any
+903,AUBURN HIGH,VA,sent home for the day,Any
+904,ELKHORN AREA HIGH,WI,sent home for the day,Any
+905,WASHINGTON HS,OK,sent home for the day,Any
+906,LAKE REGION UHSD #24,VT,sent home for the day,Any
+907,VINTON-SHELLSBURG HIGH SCHOOL,IA,sent home for the day,Any
+908,POTOSI HIGH,WI,sent home for the day,Any
+909,CLINTON HIGH,WI,sent home for the day,Any
+910,CRESTON HIGH SCHOOL,IA,sent home for the day,Any
+911,FAIRVIEW HS,PA,sent home for the day,Any
+912,LAPINE SENIOR HIGH SCHOOL,OR,sent home for the day,1st
+913,ANACORTES HIGH SCHOOL,WA,sent home for the day,Any
+914,BRADFORD AREA HS,PA,sent home for the day,Any
+915,SAUK RAPIDS-RICE SENIOR HIGH,MN,sent home for the day,Any
+916,SALINA HS,OK,sent home for the day,2nd
+917,CONVAL REGIONAL HIGH SCHOOL,NH,sent home for the day,Any
+918,WINNECONNE HIGH,WI,sent home for the day,Any
+919,PINE ISLAND SECONDARY,MN,sent home for the day,Any
+920,NORTH EUGENE HIGH SCHOOL,OR,sent home for the day,Any
+921,VAN HORN HIGH,MO,sent home for the day,3rd
+922,KNOXVILLE HIGH SCHOOL,IA,sent home for the day,Any
+923,NEW PRAGUE SENIOR HIGH,MN,sent home for the day,Any
+924,HICKSVILLE HIGH SCHOOL,NY,suspension,Any
+925,FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,suspension,Any
+926,MOHONASEN SENIOR HIGH SCHOOL,NY,suspension,Any
+927,ARCADIA HIGH SCHOOL,NY,suspension,Any
+928,RAVENA-COEYMANS-SELKIRK SENIOR HIGH SCHOOL,NY,suspension,Any
+929,NORTHGLENN HIGH SCHOOL,CO,suspension,2nd
+930,NORTHGLENN HIGH SCHOOL,CO,suspension,3rd
+931,NORTHGLENN HIGH SCHOOL,CO,suspension,4th
+932,DEL MAR HIGH,CA,suspension,3rd
+933,ANAMOSA HIGH SCHOOL,IA,suspension,4th
+934,BROOKFIELD HIGH,MO,suspension,2nd
+935,BROOKFIELD HIGH,MO,suspension,3rd
+936,BROOKFIELD HIGH,MO,suspension,4th
+937,JULIAN HIGH,CA,suspension,4th
+938,BEGGS HS,OK,suspension,5th
+939,MILTON HIGH,WI,suspension,Any
+940,SOUTHERN COLUMBIA HS,PA,suspension,Any
+941,PORT JERVIS SENIOR HIGH SCHOOL,NY,suspension,Any
+942,LONGMONT HIGH SCHOOL,CO,suspension,3rd
+943,ELKO HIGH SCHOOL,NV,suspension,3rd
+944,NORTHBRIDGE HIGH,MA,suspension,Any
+945,DEPEW HIGH SCHOOL,NY,suspension,Any
+946,PINE BUSH SENIOR HIGH SCHOOL,NY,suspension,Any
+947,HUNTLEY PROJECT HIGH SCHL,MT,suspension,Any
+948,MOUNDS HS,OK,suspension,Any
+949,BERRYVILLE HIGH SCHOOL,AR,suspension,4th
+950,BERRYVILLE HIGH SCHOOL,AR,suspension,5th
+951,NANTUCKET HIGH,MA,suspension,3rd
+952,MARINETTE HIGH,WI,suspension,2nd
+953,SHADOW HILLS HIGH,CA,suspension,Any
+954,COLUMBIA HIGH SCHOOL,NY,suspension,Any
+955,HART HIGH SCHOOL,MI,suspension,Any
+956,THOMAS JEFFERSON HIGH SCHOOL,CO,suspension,Any
+957,WEST SENECA EAST SENIOR HIGH SCHOOL,NY,suspension,Any
+958,BELLPORT SENIOR HIGH SCHOOL,NY,suspension,Any
+959,PLATTE CANYON HIGH SCHOOL,CO,suspension,4th
+960,ROSEMONT HIGH,CA,suspension,4th
+961,SPENCERPORT HIGH SCHOOL,NY,suspension,Any
+962,PITTSFIELD HIGH SCHOOL,NH,suspension,Any
+963,WEST ISLIP SENIOR HIGH SCHOOL,NY,suspension,Any
+964,SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,suspension,Any
+965,LURAY HIGH,VA,suspension,Any
+966,ATHENS HIGH,WI,suspension,Any
+967,ATASCADERO HIGH,CA,suspension,Any
+968,KEYSTONE HIGH SCHOOL,OH,suspension,Any
+969,GOSHEN CENTRAL HIGH SCHOOL,NY,suspension,Any
+970,SINTON H S,TX,suspension,Any
+971,INDEPENDENCE HIGH SCHOOL,MS,suspension,3rd
+972,BLUE RIDGE H S,TX,suspension,Any
+973,LA JOLLA HIGH,CA,suspension,3rd
+974,WEST GRAND HIGH SCHOOL,CO,suspension,3rd
+975,THUNDER RIDGE HIGH SCHOOL,KS,suspension,5th
+976,ILLINOIS VALLEY HIGH SCHOOL,OR,suspension,Any
+977,WEST HEMPSTEAD HIGH SCHOOL,NY,suspension,Any
+978,MONROE-WOODBURY HIGH SCHOOL,NY,suspension,Any
+979,MILLER PLACE HIGH SCHOOL,NY,suspension,Any
+980,TIPTON HIGH SCHOOL,IA,suspension,Any
+981,CLEARWATER HIGH,MO,suspension,Any
+982,HAMILTON HIGH SCHOOL,AZ,suspension,Any
+983,LYONS SENIOR HIGH SCHOOL,NY,suspension,Any
+984,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,suspension,5th
+985,TEXAS H S,TX,suspension,1st
+986,TEXAS H S,TX,suspension,2nd
+987,EAST HAMPTON HIGH SCHOOL,NY,suspension,2nd
+988,WARRENTON HIGH SCHOOL,OR,suspension,2nd
+989,SENIOR HS,OK,suspension,3rd
+990,ONTEORA HIGH SCHOOL,NY,suspension,2nd
+991,HAVERLING SENIOR HIGH SCHOOL,NY,suspension,Any
+992,HUNTINGTON HIGH SCHOOL,NY,suspension,2nd
+993,SOCIAL CIRCLE HIGH SCHOOL,GA,suspension,2nd
+994,SOCIAL CIRCLE HIGH SCHOOL,GA,suspension,3rd
+995,LOMIRA HIGH,WI,suspension,Any
+996,SARATOGA SPRINGS HIGH SCHOOL,NY,suspension,Any
+997,RUSSELL HIGH,KS,suspension,4th
+998,GRAND RAPIDS SENIOR HIGH,Mn,suspension,Any
+999,OKAY HS,OK,suspension,Any
+1000,CLEAR CREEK HIGH SCHOOL,CO,suspension,3rd
+1001,CALIFORNIA HIGH,MO,suspension,2nd
+1002,ALISO NIGUEL HIGH,CA,suspension,5th
+1003,CALIFORNIA HIGH,MO,suspension,2nd
+1004,TONASKET HIGH SCHOOL,WA,suspension,Any
+1005,QUARTZ HILL HIGH,CA,suspension,5th
+1006,WRAY HIGH SCHOOL,CO,suspension,3rd
+1007,PONCA CITY HS,OK,suspension,4th
+1008,HILTON HIGH SCHOOL,NY,suspension,Any
+1009,AUBURN SENIOR HIGH,MA,suspension,Any
+1010,DEWITT HIGH SCHOOL,AR,suspension,Any
+1011,CONNETQUOT HIGH SCHOOL,NY,suspension,Any
+1012,RONDOUT VALLEY HIGH SCHOOL,NY,suspension,Any
+1013,ELKHORN AREA HIGH,WI,suspension,Any
+1014,NORWOOD HIGH,MA,suspension,3rd
+1015,HOLLAND PATENT CENTRAL HIGH SCHOOL,NY,suspension,Any
+1016,ATLANTA H S,TX,suspension,Any
+1017,STRAFFORD HIGH,MO,suspension,Any
+1018,QUINCY HIGH SCHOOL,WA,suspension,Any
+1019,JENKS HS,OK,suspension,3rd
+1020,MOUNTAIN RANGE HIGH SCHOOL,CO,suspension,2nd
+1021,MOUNTAIN RANGE HIGH SCHOOL,CO,suspension,3rd
+1022,MOUNTAIN RANGE HIGH SCHOOL,CO,suspension,4th
+1023,MOUNT UNION AREA SHS,PA,suspension,3rd
+1024,HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,suspension,Any
+1025,LAPINE SENIOR HIGH SCHOOL,OR,suspension,2nd
+1026,LAPINE SENIOR HIGH SCHOOL,OR,suspension,3rd
+1027,MAHOPAC HIGH SCHOOL,NY,suspension,Any
+1028,SALINA HS,OK,suspension,3rd
+1029,HOLCOMB HIGH,KS,suspension,4th
+1030,HOLCOMB HIGH,KS,suspension,5th
+1031,ALTA LOMA HIGH,CA,suspension,Any
+1032,RED HOOK SENIOR HIGH SCHOOL,NY,suspension,Any
+1033,WEST SENECA WEST SENIOR HIGH SCHOOL,NY,suspension,Any
+1034,SEQUOYAH HS,OK,suspension,3rd
+1035,MILTON HIGH,WI,transfer expulsion,Any
+1036,BERRYVILLE HIGH SCHOOL,AR,transfer expulsion,Any
+1037,PLATTE CANYON HIGH SCHOOL,CO,transfer expulsion,4th
+1038,LURAY HIGH,VA,transfer expulsion,Any
+1039,ATASCADERO HIGH,CA,transfer expulsion,Any
+1040,WEST GRAND HIGH SCHOOL,CO,transfer expulsion,3rd
+1041,SOCIAL CIRCLE HIGH SCHOOL,GA,transfer expulsion,3rd
+1042,DEWITT HIGH SCHOOL,AR,transfer expulsion,Any
+1043,HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,transfer expulsion,Any
+1044,ALTA LOMA HIGH,CA,transfer expulsion,Any
+1045,HICKSVILLE HIGH SCHOOL,NY,undefined possible consequences,Any
+1046,RUSK H S,TX,undefined possible consequences,Any
+1047,MAY-PORT CG HIGH SCHOOL,ND,undefined possible consequences,Any
+1048,EAST HIGH,UT,undefined possible consequences,Any
+1049,NORTH FORT MYERS HIGH SCHOOL,FL,undefined possible consequences,Any
+1050,PRIOR LAKE HIGH SCHOOL,MN,undefined possible consequences,Any
+1051,OOLOGAH-TALALA HS,OK,undefined possible consequences,Any
+1052,LA FERIA H S,TX,undefined possible consequences,Any
+1053,FONDA-FULTONVILLE SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1054,TEAGUE H S,TX,undefined possible consequences,Any
+1055,ARCADIA HIGH SCHOOL,NY,undefined possible consequences,Any
+1056,RAVENA-COEYMANS-SELKIRK SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1057,LATHROP HIGH,CA,undefined possible consequences,Any
+1058,DEL MAR HIGH,CA,undefined possible consequences,3rd
+1059,CARMEL HIGH SCHOOL,NY,undefined possible consequences,Any
+1060,BREMOND H S,TX,undefined possible consequences,2nd
+1061,LATHROP HIGH SCHOOL,AK,undefined possible consequences,2nd
+1062,ATHOL HIGH,MA,undefined possible consequences,Any
+1063,SOUTHERN COLUMBIA HS,PA,undefined possible consequences,3rd
+1064,PORT JERVIS SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1065,SOUTH JEFFERSON HIGH SCHOOL,NY,undefined possible consequences,Any
+1066,NORTHBRIDGE HIGH,MA,undefined possible consequences,Any
+1067,DEPEW HIGH SCHOOL,NY,undefined possible consequences,Any
+1068,BARBERS HILL H S,TX,undefined possible consequences,Any
+1069,BUTLER HIGH SCHOOL,OH,undefined possible consequences,Any
+1070,GATEWAY HIGH SCHOOL,CO,undefined possible consequences,Any
+1071,PINE BUSH SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1072,DAWSON HIGH SCHOOL,MT,undefined possible consequences,Any
+1073,GIRARD HS,PA,undefined possible consequences,Any
+1074,HUNTLEY PROJECT HIGH SCHL,MT,undefined possible consequences,Any
+1075,MOUNDS HS,OK,undefined possible consequences,Any
+1076,OAK GROVE HIGH,MO,undefined possible consequences,Any
+1077,HANOVER HIGH,KS,undefined possible consequences,Any
+1078,LAWSON HIGH,MO,undefined possible consequences,Any
+1079,HENRIETTA H S,TX,undefined possible consequences,Any
+1080,HORN H S,TX,undefined possible consequences,Any
+1081,WEATHERFORD H S,TX,undefined possible consequences,Any
+1082,AMITY REGIONAL HIGH SCHOOL,CT,undefined possible consequences,Any
+1083,CORNWALL CENTRAL HIGH SCHOOL,NY,undefined possible consequences,Any
+1084,WASHINGTON HIGH,MO,undefined possible consequences,Any
+1085,LEVERETTS CHAPEL H S,TX,undefined possible consequences,Any
+1086,WEST STOKES HIGH,NC,undefined possible consequences,Any
+1087,NORTH CARROLL HIGH,MD,undefined possible consequences,Any
+1088,MIDLAND H S,TX,undefined possible consequences,Any
+1089,PELLA HIGH SCHOOL,IA,undefined possible consequences,Any
+1090,MCGREGOR H S,TX,undefined possible consequences,Any
+1091,CURRITUCK COUNTY HIGH,NC,undefined possible consequences,Any
+1092,PLEASANT GROVE H S,TX,undefined possible consequences,Any
+1093,BASTROP H S,TX,undefined possible consequences,Any
+1094,MARINETTE HIGH,WI,undefined possible consequences,2nd
+1095,PORTSMOUTH HIGH SCHOOL,NH,undefined possible consequences,Any
+1096,BORGER H S,TX,undefined possible consequences,Any
+1097,WELDON VALLEY HIGH SCHOOL,CO,undefined possible consequences,Any
+1098,COLUMBIA HIGH SCHOOL,NY,undefined possible consequences,Any
+1099,TWIN VALLEY HIGH SCHOOL,VT,undefined possible consequences,Any
+1100,HALLSVILLE H S,TX,undefined possible consequences,Any
+1101,PLYMOUTH-WHITEMARSH SHS,PA,undefined possible consequences,Any
+1102,THOMAS JEFFERSON HIGH SCHOOL,CO,undefined possible consequences,Any
+1103,NELSON COUNTY HIGH,VA,undefined possible consequences,Any
+1104,CREEKVIEW H S,TX,undefined possible consequences,Any
+1105,HUDSON HIGH,WI,undefined possible consequences,Any
+1106,MORENCI HIGH SCHOOL,AZ,undefined possible consequences,3rd
+1107,WEST SENECA EAST SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1108,WESTON RANCH HIGH,CA,undefined possible consequences,Any
+1109,SKIATOOK HS,OK,undefined possible consequences,3rd
+1110,NISKAYUNA HIGH SCHOOL,NY,undefined possible consequences,Any
+1111,JACKSON HOLE HIGH SCHOOL,WY,undefined possible consequences,Any
+1112,IRAAN H S,TX,undefined possible consequences,Any
+1113,LINCOLN SENIOR HIGH SCHOOL,MI,undefined possible consequences,Any
+1114,TURPIN HS,OK,undefined possible consequences,Any
+1115,BELLPORT SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1116,PLATTE CANYON HIGH SCHOOL,CO,undefined possible consequences,4th
+1117,ROSEMONT HIGH,CA,undefined possible consequences,4th
+1118,BOWLEGS HS,OK,undefined possible consequences,Any
+1119,SPENCERPORT HIGH SCHOOL,NY,undefined possible consequences,Any
+1120,PIEDMONT HS,OK,undefined possible consequences,4th
+1121,RIVERDALE HIGH SCHOOL,FL,undefined possible consequences,Any
+1122,PITTSFIELD HIGH SCHOOL,NH,undefined possible consequences,Any
+1123,WEST ISLIP SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1124,KENYON-WANAMINGO SENIOR HIGH,MN,undefined possible consequences,Any
+1125,CRATER ACADEMY OF HEALTH AND PUBLIC SERVICES,OR,undefined possible consequences,Any
+1126,GRAND LEDGE HIGH SCHOOL,MI,undefined possible consequences,Any
+1127,TARKINGTON H S,TX,undefined possible consequences,1st
+1128,TARKINGTON H S,TX,undefined possible consequences,Any
+1129,SOUTH GLENS FALLS SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1130,LEBANON SR. HIGH,MO,undefined possible consequences,Any
+1131,APPOQUINIMINK HIGH SCHOOL,DE,undefined possible consequences,Any
+1132,QUANAH H S,TX,undefined possible consequences,Any
+1133,GRANDVIEW SR. HIGH,MO,undefined possible consequences,Any
+1134,FONTANA HIGH,CA,undefined possible consequences,Any
+1135,BONNEY LAKE HIGH SCHOOL,WA,undefined possible consequences,Any
+1136,ROGERS H S,TX,undefined possible consequences,Any
+1137,ATHENS HIGH,WI,undefined possible consequences,Any
+1138,CELINA H S,TX,undefined possible consequences,Any
+1139,QUEEN CITY H S,TX,undefined possible consequences,Any
+1140,MACON SR. HIGH,MO,undefined possible consequences,Any
+1141,KEYSTONE HIGH SCHOOL,OH,undefined possible consequences,Any
+1142,ONTARIO HIGH SCHOOL,OR,undefined possible consequences,Any
+1143,GOSHEN CENTRAL HIGH SCHOOL,NY,undefined possible consequences,Any
+1144,ALAMO HEIGHTS H S,TX,undefined possible consequences,Any
+1145,SHELBY CO HIGH SCH,AL,undefined possible consequences,Any
+1146,BLUE RIDGE H S,TX,undefined possible consequences,Any
+1147,WEST GRAND HIGH SCHOOL,CO,undefined possible consequences,3rd
+1148,PARK HILL HIGH,MO,undefined possible consequences,Any
+1149,JOSEPH CASE HIGH,MA,undefined possible consequences,Any
+1150,WHARTON H S,TX,undefined possible consequences,Any
+1151,ILLINOIS VALLEY HIGH SCHOOL,OR,undefined possible consequences,Any
+1152,GRIFFIN HIGH SCHOOL,GA,undefined possible consequences,Any
+1153,WEST HEMPSTEAD HIGH SCHOOL,NY,undefined possible consequences,Any
+1154,CENTURY HIGH,MD,undefined possible consequences,Any
+1155,OLTON H S,TX,undefined possible consequences,Any
+1156,LITTLE MIAMI HIGH SCHOOL,OH,undefined possible consequences,Any
+1157,GLEN ROSE H S,TX,undefined possible consequences,Any
+1158,MONROE-WOODBURY HIGH SCHOOL,NY,undefined possible consequences,Any
+1159,LOVELL HIGH SCHOOL,WY,undefined possible consequences,Any
+1160,KETCHUM HS,OK,undefined possible consequences,Any
+1161,LEOMINSTER HIGH SCHOOL,MA,undefined possible consequences,Any
+1162,LEBANON HIGH SCHOOL,OR,undefined possible consequences,Any
+1163,MILLER PLACE HIGH SCHOOL,NY,undefined possible consequences,Any
+1164,LEHIGH SENIOR HIGH SCHOOL,FL,undefined possible consequences,Any
+1165,SPAULDING UHSD #41,VT,undefined possible consequences,Any
+1166,CLEARWATER HIGH,MO,undefined possible consequences,Any
+1167,HILLDALE HS,OK,undefined possible consequences,Any
+1168,ALVARADO H S,TX,undefined possible consequences,Any
+1169,CIMARRON HS,OK,undefined possible consequences,Any
+1170,HAMILTON HIGH SCHOOL,AZ,undefined possible consequences,Any
+1171,PALACIOS H S,TX,undefined possible consequences,Any
+1172,LYONS SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1173,PENTUCKET REGIONAL SR HIGH,MA,undefined possible consequences,Any
+1174,BINGHAMTON HIGH SCHOOL,NY,undefined possible consequences,Any
+1175,OMRO HIGH,WI,undefined possible consequences,Any
+1176,NASHOBA REGIONAL,MA,undefined possible consequences,Any
+1177,PIERCE COUNTY HIGH SCHOOL,GA,undefined possible consequences,Any
+1178,SOUTH ALBANY HIGH SCHOOL,OR,undefined possible consequences,Any
+1179,CONNALLY HIGH SCHOOL,TX,undefined possible consequences,Any
+1180,MIDDLE CREEK HIGH,NC,undefined possible consequences,Any
+1181,FONTANA A. B. MILLER HIGH,CA,undefined possible consequences,Any
+1182,CHANHASSEN HIGH SCHOOL,MN,undefined possible consequences,Any
+1183,DOUGLAS HIGH SCHOOL,MA,undefined possible consequences,2nd
+1184,WALPOLE HIGH,MA,undefined possible consequences,Any
+1185,MEMORIAL HS,OK,undefined possible consequences,Any
+1186,EAST HAMPTON HIGH SCHOOL,NY,undefined possible consequences,2nd
+1187,IRVINE HIGH,CA,undefined possible consequences,Any
+1188,HILLIARD BRADLEY HIGH SCHOOL,OH,undefined possible consequences,Any
+1189,MEDFORD HIGH,MA,undefined possible consequences,2nd
+1190,MONROE CITY R-I HIGH,MO,undefined possible consequences,2nd
+1191,TEMPLE H S,TX,undefined possible consequences,Any
+1192,HAVERLING SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1193,WHITE RIVER HIGH SCHOOL,WA,undefined possible consequences,Any
+1194,ASTORIA SENIOR HIGH SCHOOL,OR,undefined possible consequences,Any
+1195,HIAWATHA SR HIGH,KS,undefined possible consequences,Any
+1196,SOCIAL CIRCLE HIGH SCHOOL,GA,undefined possible consequences,1st
+1197,EAST HAVEN HIGH SCHOOL,CT,undefined possible consequences,Any
+1198,SKYVIEW HIGH SCHOOL,WA,undefined possible consequences,Any
+1199,KELSO HIGH SCHOOL,WA,undefined possible consequences,Any
+1200,CHIRENO H S,TX,undefined possible consequences,Any
+1201,RUSSELL HIGH,KS,undefined possible consequences,4th
+1202,NETTLETON HIGH SCHOOL,MS,undefined possible consequences,Any
+1203,LAKER HIGH SCHOOL,MI,undefined possible consequences,Any
+1204,LODI HIGH,WI,undefined possible consequences,2nd
+1205,MORRISON HS,OK,undefined possible consequences,Any
+1206,OKAY HS,OK,undefined possible consequences,Any
+1207,ASSETS,TX,undefined possible consequences,Any
+1208,CLEAR CREEK HIGH SCHOOL,CO,undefined possible consequences,3rd
+1209,HENRY J. KAISER HIGH,CA,undefined possible consequences,Any
+1210,BURKBURNETT H S,TX,undefined possible consequences,Any
+1211,SILVER VALLEY HIGH,CA,undefined possible consequences,Any
+1212,ANDREWS H S,TX,undefined possible consequences,Any
+1213,GRAHAM HS,OK,undefined possible consequences,Any
+1214,SWEETWATER H S,TX,undefined possible consequences,3rd
+1215,GEORGE WASHINGTON HIGH SCHOOL,IA,undefined possible consequences,Any
+1216,GLEN ULLIN HIGH SCHOOL,ND,undefined possible consequences,Any
+1217,TONASKET HIGH SCHOOL,WA,undefined possible consequences,Any
+1218,WRAY HIGH SCHOOL,CO,undefined possible consequences,3rd
+1219,HILTON HIGH SCHOOL,NY,undefined possible consequences,Any
+1220,COLBY SENIOR HIGH,KS,undefined possible consequences,Any
+1221,AUBURN HIGH,VA,undefined possible consequences,Any
+1222,HICKORY RIDGE HIGH,NC,undefined possible consequences,Any
+1223,CONNETQUOT HIGH SCHOOL,NY,undefined possible consequences,Any
+1224,RONDOUT VALLEY HIGH SCHOOL,NY,undefined possible consequences,Any
+1225,PORUM HS,OK,undefined possible consequences,Any
+1226,FARMINGTON HIGH,NM,undefined possible consequences,Any
+1227,MOUNT PLEASANT HIGH,NC,undefined possible consequences,Any
+1228,MENCHVILLE HIGH,VA,undefined possible consequences,Any
+1229,ALMONT HIGH SCHOOL,MI,undefined possible consequences,Any
+1230,WASHBURN RURAL HIGH,KS,undefined possible consequences,Any
+1231,NEWBERG SENIOR HIGH SCHOOL,OR,undefined possible consequences,Any
+1232,BLAIR OAKS HIGH,MO,undefined possible consequences,Any
+1233,NICOLET HIGH,WI,undefined possible consequences,Any
+1234,HOLLAND PATENT CENTRAL HIGH SCHOOL,NY,undefined possible consequences,Any
+1235,DICKINSON H S,TX,undefined possible consequences,Any
+1236,CONCORD HIGH,NC,undefined possible consequences,Any
+1237,JENKS HS,OK,undefined possible consequences,1st
+1238,JENKS HS,OK,undefined possible consequences,2nd
+1239,CHARLESTON HIGH,MO,undefined possible consequences,Any
+1240,BROOKFIELD HIGH SCHOOL,CT,undefined possible consequences,Any
+1241,CENTERVILLE HIGH SCHOOL,IA,undefined possible consequences,Any
+1242,NORTH FAYETTE HIGH SCHOOL,IA,undefined possible consequences,Any
+1243,CROSWELL-LEXINGTON HIGH SCHOOL,MI,undefined possible consequences,Any
+1244,HOUSATONIC VALLEY REGIONAL HIGH SCHOOL,CT,undefined possible consequences,Any
+1245,FAIRVIEW HS,PA,undefined possible consequences,Any
+1246,LYNNFIELD HIGH,MA,undefined possible consequences,Any
+1247,MAHOPAC HIGH SCHOOL,NY,undefined possible consequences,Any
+1248,NORTHLAND PINES HIGH,WI,undefined possible consequences,Any
+1249,BRADFORD AREA HS,PA,undefined possible consequences,Any
+1250,SAUK RAPIDS-RICE SENIOR HIGH,MN,undefined possible consequences,Any
+1251,MARINER HIGH SCHOOL,FL,undefined possible consequences,Any
+1252,ALTA LOMA HIGH,CA,undefined possible consequences,Any
+1253,NORTH EUGENE HIGH SCHOOL,OR,undefined possible consequences,Any
+1254,WEST SPRINGFIELD HIGH,MA,undefined possible consequences,Any
+1255,SIUSLAW HIGH SCHOOL,OR,undefined possible consequences,Any
+1256,UNIVERSITY CITY HIGH,CA,undefined possible consequences,Any
+1257,HENDERSON H S,TX,undefined possible consequences,Any
+1258,RED HOOK SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1259,WEST SENECA WEST SENIOR HIGH SCHOOL,NY,undefined possible consequences,Any
+1260,HUDSON'S BAY HIGH SCHOOL,WA,undefined possible consequences,Any
+1261,MENOMONIE HIGH,WI,undefined possible consequences,Any
+1262,RUSK H S,TX,wear school provided clothes,Any
+1263,DODGEVILLE HIGH,WI,wear school provided clothes,Any
+1264,DEL MAR HIGH,CA,wear school provided clothes,1st
+1265,RIO RANCHO HIGH,NM,wear school provided clothes,1st
+1266,RIO RANCHO HIGH,NM,wear school provided clothes,2nd
+1267,RIO RANCHO HIGH,NM,wear school provided clothes,3rd
+1268,JULIAN HIGH,CA,wear school provided clothes,1st
+1269,BEGGS HS,OK,wear school provided clothes,1st
+1270,BEGGS HS,OK,wear school provided clothes,2nd
+1271,BEGGS HS,OK,wear school provided clothes,3rd
+1272,BEGGS HS,OK,wear school provided clothes,4th
+1273,BUTLER HIGH SCHOOL,OH,wear school provided clothes,Any
+1274,ELEANOR ROOSEVELT HIGH SCHOOL,NY,wear school provided clothes,Any
+1275,GIRARD HS,PA,wear school provided clothes,Any
+1276,HOWE HS,OK,wear school provided clothes,Any
+1277,MCLOUTH HIGH,KS,wear school provided clothes,Any
+1278,AKRON WESTFIELD SENIOR HIGH SCHOOL,IA,wear school provided clothes,Any
+1279,RANCHO BUENA VISTA HIGH,CA,wear school provided clothes,Any
+1280,FREEPORT AREA SHS,PA,wear school provided clothes,1st
+1281,FREEPORT AREA SHS,PA,wear school provided clothes,2nd
+1282,NORTH CARROLL HIGH,MD,wear school provided clothes,Any
+1283,SHADOW HILLS HIGH,CA,wear school provided clothes,Any
+1284,NELSON COUNTY HIGH,VA,wear school provided clothes,Any
+1285,MORENCI HIGH SCHOOL,AZ,wear school provided clothes,1st
+1286,NEWPORT MIDDLE HIGH SCHOOL (HIGH),NH,wear school provided clothes,Any
+1287,JACKSON HOLE HIGH SCHOOL,WY,wear school provided clothes,Any
+1288,GRAND LEDGE HIGH SCHOOL,MI,wear school provided clothes,Any
+1289,DAVID PROUTY HIGH,MA,wear school provided clothes,1st
+1290,FONTANA HIGH,CA,wear school provided clothes,Any
+1291,HARLOWTON HIGH SCHOOL,MT,wear school provided clothes,Any
+1292,SEDRO WOOLLEY SENIOR HIGH SCHOOL,WA,wear school provided clothes,Any
+1293,SINTON H S,TX,wear school provided clothes,Any
+1294,LA JOLLA HIGH,CA,wear school provided clothes,1st
+1295,ILLINOIS VALLEY HIGH SCHOOL,OR,wear school provided clothes,Any
+1296,MONTE VISTA HIGH,CA,wear school provided clothes,Any
+1297,CEDAR GROVE-BELGIUM HIGH,WI,wear school provided clothes,Any
+1298,BATTLE CREEK-IDA GROVE SENIOR HIGH SCHOOL,IA,wear school provided clothes,Any
+1299,PENTUCKET REGIONAL SR HIGH,MA,wear school provided clothes,1st
+1300,PENTUCKET REGIONAL SR HIGH,MA,wear school provided clothes,2nd
+1301,DANVERS HIGH,MA,wear school provided clothes,Any
+1302,GEORGE MASON HIGH,VA,wear school provided clothes,Any
+1303,CONNALLY HIGH SCHOOL,TX,wear school provided clothes,Any
+1304,SLEEPY HOLLOW HIGH SCHOOL,NY,wear school provided clothes,Any
+1305,MEDFORD HIGH,MA,wear school provided clothes,1st
+1306,HAVERLING SENIOR HIGH SCHOOL,NY,wear school provided clothes,Any
+1307,EDISON SENIOR HIGH,MN,wear school provided clothes,Any
+1308,RUSSELL HIGH,KS,wear school provided clothes,1st
+1309,RUSSELL HIGH,KS,wear school provided clothes,2nd
+1310,SALLISAW HS,OK,wear school provided clothes,Any
+1311,LAKER HIGH SCHOOL,MI,wear school provided clothes,Any
+1312,HENRY J. KAISER HIGH,CA,wear school provided clothes,Any
+1313,RAMON C. CORTINES SCHOOL OF VISUAL AND PERFORMING ARTS,CA,wear school provided clothes,Any
+1314,EDISON ACADEMY,MA,wear school provided clothes,Any
+1315,BUFFALO HIGH SCHOOL,WY,wear school provided clothes,Any
+1316,RUTLAND SENIOR HIGH SCHOOL,VT,wear school provided clothes,Any
+1317,TAFT UNION HIGH,CA,wear school provided clothes,Any
+1318,RUTLAND SENIOR HIGH SCHOOL,VT,wear school provided clothes,Any
+1319,PONCA CITY HS,OK,wear school provided clothes,1st
+1320,PONCA CITY HS,OK,wear school provided clothes,2nd
+1321,PONCA CITY HS,OK,wear school provided clothes,3rd
+1322,SCOTTS VALLEY HIGH,CA,wear school provided clothes,Any
+1323,BOURNE HIGH SCHOOL,MA,wear school provided clothes,Any
+1324,NICOLET HIGH,WI,wear school provided clothes,Any
+1325,CHARLESTON HIGH,MO,wear school provided clothes,1st
+1326,CHARLESTON HIGH,MO,wear school provided clothes,2nd
+1327,CHARLESTON HIGH,MO,wear school provided clothes,3rd
+1328,PRENTICE HIGH,WI,wear school provided clothes,Any
+1329,MOUNT UNION AREA SHS,PA,wear school provided clothes,Any
+1330,BROOKFIELD HIGH SCHOOL,CT,wear school provided clothes,Any
+1331,SALINA HS,OK,wear school provided clothes,1st
+1332,SALINA HS,OK,wear school provided clothes,2nd
+1333,NORTH EUGENE HIGH SCHOOL,OR,wear school provided clothes,Any
+1334,SIUSLAW HIGH SCHOOL,OR,wear school provided clothes,Any
+1335,UNIVERSITY CITY HIGH,CA,wear school provided clothes,Any
+1336,KNOXVILLE HIGH SCHOOL,IA,wear school provided clothes,Any
+1337,LOOKEBA-SICKLES HS,OK,wear school provided clothes,1st
+1338,RUSK H S,TX,removed from extra-curricular activities,Any
+1339,EAST HIGH,UT,students purchase tshirt or gym shorts from office for $5,Any
+1340,NORTH FORT MYERS HIGH SCHOOL,FL,sent to Student Services,Any
+1341,PRIOR LAKE HIGH SCHOOL,MN,wearing PE clothes,Any
+1342,GLASGOW HIGH SCHOOL,MT,slip to office,1st
+1343,DEL MAR HIGH,CA,notice home to parents,1st
+1344,DEL MAR HIGH,CA,notice home to parents,2nd
+1345,DEL MAR HIGH,CA,meeting with parent,3rd
+1346,ANAMOSA HIGH SCHOOL,IA,warning,1st
+1347,TACONIC HIGH,MA,counseled,Any
+1348,BREMOND H S,TX,referred to principal,Any
+1349,JULIAN HIGH,CA,confiscated,1st
+1350,JULIAN HIGH,CA,warning,1st
+1351,ROBERTSDALE HIGH SCH,AL,assigned OCS,Any
+1352,LONGMONT HIGH SCHOOL,CO,remain in administrative area for day,2nd
+1353,LONGMONT HIGH SCHOOL,CO,parent conference,2nd
+1354,WINDTHORST H S,TX,written report,Any
+1355,COE-BROWN NORTHWOOD ACADEMY,NH,sent to guidance counselor,Any
+1356,COE-BROWN NORTHWOOD ACADEMY,NH,parent conference,3rd
+1357,DAWSON HIGH SCHOOL,MT,sent to the office,Any
+1358,HINTON HS,OK,kept out of class until dressed within school policy,Any
+1359,MOUNDS HS,OK,removal from extracurricular activities,Any
+1360,CEDAR CITY HIGH,UT,sent to office,Any
+1361,HANOVER HIGH,KS,removed from class,Any
+1362,ELGIN HS,OK,warning,1st
+1363,ELGIN HS,OK,lunch detention,2nd
+1364,ELGIN HS,OK,full lunch detention,3rd
+1365,BERRYVILLE HIGH SCHOOL,AR,principal conference,1st
+1366,BERRYVILLE HIGH SCHOOL,AR,corporal punishment,2nd
+1367,NORTH ANDREW HIGH,MO,behavior management plan,Any
+1368,CARROLLTON HIGH SCHOOL,GA,work detail after school,1st
+1369,WASHINGTON HIGH,MO,conduct referral,Any
+1370,RANCHO BUENA VISTA HIGH,CA,discipline referral,1st
+1371,WEST STOKES HIGH,NC,administrative warning,1st
+1372,WEST STOKES HIGH,NC,isolation,1st
+1373,WEST STOKES HIGH,NC,administrative warning,2nd
+1374,WEST STOKES HIGH,NC,isolation,2nd
+1375,NANTUCKET HIGH,MA,warning,1st
+1376,BASTROP H S,TX,isolation,Any
+1377,SYMMES VALLEY HIGH SCHOOL,OH,warning,1st
+1378,SYMMES VALLEY HIGH SCHOOL,OH,alternative school,5th
+1379,WELDON VALLEY HIGH SCHOOL,CO,Level II of the Discipline Code,2nd
+1380,SHADOW HILLS HIGH,CA,Behavior Intervention Services referral,3rd
+1381,SHADOW HILLS HIGH,CA,lunch detention,Any
+1382,LAUREL HIGH SCHOOL,MT,warning,1st
+1383,HART HIGH SCHOOL,MI,kept from class,Any
+1384,DOVER HS,OK,in-school supervision,Any
+1385,JERICHO SENIOR HIGH SCHOOL,NY,removed from class,Any
+1386,NELSON COUNTY HIGH,VA,lunch detention,Any
+1387,MORENCI HIGH SCHOOL,AZ,warning,1st
+1388,WESTON RANCH HIGH,CA,warning,1st
+1389,LANDER VALLEY HIGH SCHOOL,WY,warning,1st
+1390,LANDER VALLEY HIGH SCHOOL,WY,,Any
+1391,SKIATOOK HS,OK,warning,1st
+1392,SKIATOOK HS,OK,warning,2nd
+1393,NISKAYUNA HIGH SCHOOL,NY,asked to leave school grounds,Any
+1394,EMPORIA HIGH,KS,warning,1st
+1395,EMPORIA HIGH,KS,disciplinary referral,2nd
+1396,NEWPORT MIDDLE HIGH SCHOOL (HIGH),NH,parent teacher meeting,Any
+1397,PIEDMONT HS,OK,warning,1st
+1398,PITTSFIELD HIGH SCHOOL,NH,day in Student Support Center,Any
+1399,DAVID PROUTY HIGH,MA,PM Suspension,3rd
+1400,BYRON NELSON H S,TX,spend day in special assignment classroom,Any
+1401,FRONTENAC SR. HIGH SCHOOL,KS,office referral,Any
+1402,SEDRO WOOLLEY SENIOR HIGH SCHOOL,WA,on-line discipline infraction,Any
+1403,ATASCADERO HIGH,CA,reasonable attempt at counseling,Any
+1404,KEYSTONE HIGH SCHOOL,OH,verbal warning,Any
+1405,WEST GRAND HIGH SCHOOL,CO,written warning,1st
+1406,WEST GRAND HIGH SCHOOL,CO,remaining in the administrative office,2nd
+1407,WEST GRAND HIGH SCHOOL,CO,parent teacher conference,2nd
+1408,THUNDER RIDGE HIGH SCHOOL,KS,warning,1st
+1409,THUNDER RIDGE HIGH SCHOOL,KS,parent student conference,2nd
+1410,COLCHESTER HIGH SCHOOL,VT,referred to administration,Any
+1411,MONTE VISTA HIGH,CA,"handed a ""Fix-It"" ticket",Any
+1412,MONTE VISTA HIGH,CA,report to office between classes,Any
+1413,CENTURY HIGH,MD,administrative referral,Any
+1414,PERRY CENTRAL HIGH SCHOOL,MS,office referral,Any
+1415,CLEARWATER HIGH,MO,lunch detention,Any
+1416,HAMILTON HIGH SCHOOL,AZ,warning,Any
+1417,HAMILTON HIGH SCHOOL,AZ,parent conference,Any
+1418,PENTUCKET REGIONAL SR HIGH,MA,parent meeting,2nd
+1419,UNIONVILLE-SEBEWAING HIGH SCHOOL,MI,parent meeting,5th
+1420,TEXAS H S,TX,warning,Any
+1421,DOUGLAS HIGH SCHOOL,MA,will remain in office or ISS if unable to obtain appropriate clothes ,Any
+1422,MEDFORD HIGH,MA,turn clothing inside out,Any
+1423,HAVERLING SENIOR HIGH SCHOOL,NY,attend Sunday school,Any
+1424,WHITE RIVER HIGH SCHOOL,WA,turn shirt inside-out,Any
+1425,CLEAR CREEK HIGH SCHOOL,CO,written warning,1st
+1426,CLEAR CREEK HIGH SCHOOL,CO,remain under administrator responsibility until appropriate clothing can be obtained and worn,2nd
+1427,CLEAR CREEK HIGH SCHOOL,CO,parent teacher conference,2nd
+1428,ALISO NIGUEL HIGH,CA,Afternoon School,Any
+1429,ALISO NIGUEL HIGH,CA,Behavior Contract,Any
+1430,ALISO NIGUEL HIGH,CA,Meet with Assistant Principal.,Any
+1431,GEORGE WASHINGTON HIGH SCHOOL,IA,make modifications,Any
+1432,TONASKET HIGH SCHOOL,WA,student must made appropriate corrections,Any
+1433,QUARTZ HILL HIGH,CA,warning,Any
+1434,QUARTZ HILL HIGH,CA,After School Work Program,Any
+1435,WRAY HIGH SCHOOL,CO,written warning,Any
+1436,WRAY HIGH SCHOOL,CO,remain in admin office for day,Any
+1437,WRAY HIGH SCHOOL,CO,parent conference,Any
+1438,PONCA CITY HS,OK,verbal warning,Any
+1439,PONCA CITY HS,OK,parent conference,Any
+1440,HILTON HIGH SCHOOL,NY,modify appearance to be compliant,Any
+1441,EAST SAC COUNTY HIGH SCHOOL,IA,make modifications,Any
+1442,SCOTTS VALLEY HIGH,CA,warning,Any
+1443,SCOTTS VALLEY HIGH,CA,clothing or accessories confiscated,Any
+1444,SCOTTS VALLEY HIGH,CA,sent home for a change of clothing,Any
+1445,AUBURN SENIOR HIGH,MA,alter appearance,Any
+1446,AUBURN HIGH,VA,confiscated items,Any
+1447,DEWITT HIGH SCHOOL,AR,sent home for clothes,Any
+1448,WHEELER HIGH SCHOOL,CT,parent admin meeting,Any
+1449,MARSHALLTOWN HIGH SCHOOL,IA,make modifications,Any
+1450,NORTHWEST CABARRUS HIGH,NC,Control Room,Any
+1451,NORTHWEST CABARRUS HIGH,NC,ASD,Any
+1452,EASTERN YORK HS,PA,cannot return to class until appropriate changes have been made,Any
+1453,WASHINGTON HS,OK,unexcused absence,Any
+1454,NORWOOD HIGH,MA,warning,Any
+1455,WASHBURN RURAL HIGH,KS,make changes,Any
+1456,CAMERON HIGH,MO,make modifications,Any
+1457,STRAFFORD HIGH,MO,parent conference,Any
+1458,QUINCY HIGH SCHOOL,WA,parent conference,Any
+1459,JENKS HS,OK,referral to assistant principal,1st
+1460,JENKS HS,OK,in study hall for the rest of the day,Any
+1461,MOUNTAIN RANGE HIGH SCHOOL,CO,warning, 1st
+1462,MOUNTAIN RANGE HIGH SCHOOL,CO,parent and student sign policy,2nd
+1463,MOUNTAIN RANGE HIGH SCHOOL,CO,parent meeting,Any
+1464,CHARLESTON HIGH,MO,citation signed by parents,Any
+1465,HORNELL SENIOR HIGH SCHOOL,NY,students stay in office until appropriate clothes provided,Any
+1466,LAPINE SENIOR HIGH SCHOOL,OR,sent to office,1st
+1467,LAPINE SENIOR HIGH SCHOOL,OR,parent conference,3rd
+1468,NORTHLAND PINES HIGH,WI,referred to principal,Any
+1469,HOLCOMB HIGH,KS,confiscated items,Any
